@@ -1,0 +1,9 @@
+Layer,Genes
+All genes analysed,27809
+"Conventional paired test, BH q < 0.05",367
+... prep-agnostic stable (pi >= 0.8),11
+... also prep-aware stable,1
+... also stable after host correction,0
+... sign-consistent in matched pairs & ICC >= 0.5,0
+... not organ-enriched,0
+... same sign in >= 3 sites = robust state feature,0

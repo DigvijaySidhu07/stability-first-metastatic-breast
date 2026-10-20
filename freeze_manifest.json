@@ -1,0 +1,36 @@
+{
+ "analysis": "Stability-first framework, GSE193103 (locked)",
+ "seed": 20261015,
+ "parameters": {
+  "Q_MAIN": 100,
+  "PI_THR": 0.8,
+  "ICC_MIN": 0.5,
+  "B_A": 100,
+  "N_PERM_A": 50,
+  "B_B": 100,
+  "N_PERM_B": 50,
+  "R_SPLIT": 150,
+  "SEED": 20261015,
+  "QUICK": false
+ },
+ "environment": {
+  "python": "3.13.16",
+  "numpy": "2.5.3",
+  "pandas": "3.0.5"
+ },
+ "reproduced_on": [
+  "cloud container",
+  "Windows (user machine)",
+  "Google Colab"
+ ],
+ "sha256": {
+  "axisA_all_genes.csv": "01f434bf4c626895f5cefa70e64856ed03dd524a687755535b402ba48fd55375",
+  "axisB_all_genes.csv": "d347dab25878ef2b7b63e29d87da9f6afef67d832eb6ecd82cf6b28d7a6bfcb0",
+  "cascade.csv": "1ecb4a9942755b2d1b92bd1f4b5c10044608fe2ee24386ef7b39cbe4a1ec367b",
+  "benchmark_splits.csv": "b3c76c72f8dfa3d832756b7ce51011feadb75a130275b4b1d49f41bf093bbd32",
+  "host_fraction_per_unit.csv": "72a101883a502521dc046a6251f40a6d44e7fbcd8fe139b53e9c5baa7029eb13",
+  "pair_structure.csv": "8bfe63104e77b2da7a6233edef98a21c186e6b129956c6467fbfb6e98fd3be7b",
+  "run_summary.json": "7c91895737958d1abaaf147821b9d5bd94a7320f4a377a5cd99e05dbc92b6995",
+  "StabilityFirst_metastatic_breast_executed.ipynb": "03c7c1a875eec57d8fbf57ff85c18bc50b77754838467bce2b3b42a13f6cc40e"
+ }
+}

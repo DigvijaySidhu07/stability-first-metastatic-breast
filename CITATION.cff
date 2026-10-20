@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Stability-first workflow for metastatic transcriptomics: a methodological stress test on GSE193103 (AURORA)"
+version: 1.0.0
+date-released: 2026-10-21
+authors:
+  - family-names: Sidhu
+    given-names: Digvijay Singh
+  - family-names: Gupta
+    given-names: Kanish
+  - family-names: Grewal
+    given-names: Harreet Kaur
+  - family-names: Goswami
+    given-names: Shivani
+license: MIT

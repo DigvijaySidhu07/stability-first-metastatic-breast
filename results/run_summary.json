@@ -1,0 +1,66 @@
+{
+  "cohort": {
+    "libraries_analysed": 99,
+    "patients": 24,
+    "paired_patients": 15,
+    "preservation_matched_pairs": 8,
+    "genes_analysed": 27809,
+    "qc_excluded": [
+      "A2-PrimT-FFPER0i_CP-1365"
+    ],
+    "informative_patients_axisB": 12
+  },
+  "diagnostics": {
+    "spearman_state_vs_ffpe_all": -0.5720503461956192,
+    "spearman_state_vs_ffpe_sensitive": -0.7317116511421398,
+    "spearman_after_host_correction": -0.4944515621756217,
+    "ffpe_sensitive_genes": 14820,
+    "organ_enriched_genes": 2860
+  },
+  "axisA": {
+    "calls": {
+      "not stable": 27796,
+      "prep-confounded candidate": 11,
+      "organ-explained / not host-robust": 1,
+      "emerges only after host correction": 1
+    },
+    "stable_agnostic": 11,
+    "stable_prepaware": 1,
+    "stable_hc": 3,
+    "robust": 0
+  },
+  "axisB": {
+    "calls": {
+      "not stable": 27809
+    },
+    "stable_site": 0,
+    "blocked_F_q05": 389
+  },
+  "cascade": {
+    "All genes analysed": 27809,
+    "Conventional paired test, BH q < 0.05": 367,
+    "... prep-agnostic stable (pi >= 0.8)": 11,
+    "... also prep-aware stable": 1,
+    "... also stable after host correction": 0,
+    "... sign-consistent in matched pairs & ICC >= 0.5": 0,
+    "... not organ-enriched": 0,
+    "... same sign in >= 3 sites = robust state feature": 0
+  },
+  "parameters": {
+    "Q_MAIN": 100,
+    "PI_THR": 0.8,
+    "ICC_MIN": 0.5,
+    "B_A": 100,
+    "N_PERM_A": 50,
+    "B_B": 100,
+    "N_PERM_B": 50,
+    "R_SPLIT": 150,
+    "SEED": 20261015,
+    "QUICK": false
+  },
+  "environment": {
+    "python": "3.13.16",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5"
+  }
+}

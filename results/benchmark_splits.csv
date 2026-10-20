@@ -1,0 +1,1801 @@
+split,method,k,sign_agree,replicated_p05,ffpe_explained,organ_enriched
+0,1 Conventional (library Welch),25,1.0,0.48,0.2,0.12
+0,1 Conventional (library Welch),50,1.0,0.48,0.36,0.06
+0,1 Conventional (library Welch),100,1.0,0.42,0.31,0.15
+0,2 Paired single fit,25,0.96,0.4,0.36,0.4
+0,2 Paired single fit,50,0.98,0.5,0.26,0.42
+0,2 Paired single fit,100,0.98,0.42,0.31,0.37
+0,"3 Stability-first, prep-agnostic",25,0.96,0.44,0.24,0.52
+0,"3 Stability-first, prep-agnostic",50,0.98,0.4,0.26,0.38
+0,"3 Stability-first, prep-agnostic",100,0.97,0.41,0.3,0.31
+0,"4 Stability-first, prep-aware",25,0.88,0.36,0.12,0.52
+0,"4 Stability-first, prep-aware",50,0.8,0.34,0.16,0.38
+0,"4 Stability-first, prep-aware",100,0.79,0.23,0.12,0.35
+1,1 Conventional (library Welch),25,1.0,0.36,0.08,0.04
+1,1 Conventional (library Welch),50,0.98,0.26,0.08,0.04
+1,1 Conventional (library Welch),100,0.96,0.27,0.04,0.08
+1,2 Paired single fit,25,1.0,0.4,0.12,0.36
+1,2 Paired single fit,50,0.96,0.38,0.12,0.36
+1,2 Paired single fit,100,0.95,0.36,0.08,0.31
+1,"3 Stability-first, prep-agnostic",25,0.96,0.36,0.12,0.36
+1,"3 Stability-first, prep-agnostic",50,0.94,0.42,0.08,0.36
+1,"3 Stability-first, prep-agnostic",100,0.96,0.42,0.09,0.36
+1,"4 Stability-first, prep-aware",25,0.64,0.4,0.08,0.4
+1,"4 Stability-first, prep-aware",50,0.7,0.3,0.06,0.36
+1,"4 Stability-first, prep-aware",100,0.62,0.23,0.09,0.31
+2,1 Conventional (library Welch),25,0.92,0.24,0.0,0.08
+2,1 Conventional (library Welch),50,0.96,0.22,0.04,0.1
+2,1 Conventional (library Welch),100,0.97,0.23,0.08,0.1
+2,2 Paired single fit,25,1.0,0.44,0.12,0.4
+2,2 Paired single fit,50,1.0,0.38,0.1,0.44
+2,2 Paired single fit,100,0.99,0.27,0.14,0.34
+2,"3 Stability-first, prep-agnostic",25,1.0,0.44,0.12,0.4
+2,"3 Stability-first, prep-agnostic",50,1.0,0.36,0.16,0.36
+2,"3 Stability-first, prep-agnostic",100,0.97,0.28,0.18,0.38
+2,"4 Stability-first, prep-aware",25,0.96,0.44,0.08,0.52
+2,"4 Stability-first, prep-aware",50,0.96,0.36,0.04,0.56
+2,"4 Stability-first, prep-aware",100,0.89,0.25,0.11,0.52
+3,1 Conventional (library Welch),25,1.0,0.52,0.4,0.08
+3,1 Conventional (library Welch),50,0.98,0.48,0.44,0.12
+3,1 Conventional (library Welch),100,0.94,0.46,0.49,0.09
+3,2 Paired single fit,25,0.92,0.52,0.44,0.2
+3,2 Paired single fit,50,0.9,0.48,0.4,0.24
+3,2 Paired single fit,100,0.94,0.41,0.42,0.26
+3,"3 Stability-first, prep-agnostic",25,0.88,0.48,0.32,0.16
+3,"3 Stability-first, prep-agnostic",50,0.88,0.5,0.28,0.26
+3,"3 Stability-first, prep-agnostic",100,0.91,0.42,0.35,0.23
+3,"4 Stability-first, prep-aware",25,0.72,0.32,0.08,0.2
+3,"4 Stability-first, prep-aware",50,0.78,0.36,0.14,0.28
+3,"4 Stability-first, prep-aware",100,0.84,0.32,0.2,0.32
+4,1 Conventional (library Welch),25,1.0,0.68,0.04,0.16
+4,1 Conventional (library Welch),50,1.0,0.58,0.12,0.22
+4,1 Conventional (library Welch),100,1.0,0.5,0.2,0.17
+4,2 Paired single fit,25,1.0,0.68,0.2,0.44
+4,2 Paired single fit,50,0.98,0.62,0.18,0.48
+4,2 Paired single fit,100,0.97,0.51,0.27,0.36
+4,"3 Stability-first, prep-agnostic",25,1.0,0.6,0.04,0.44
+4,"3 Stability-first, prep-agnostic",50,1.0,0.52,0.2,0.32
+4,"3 Stability-first, prep-agnostic",100,0.94,0.4,0.27,0.26
+4,"4 Stability-first, prep-aware",25,0.76,0.24,0.12,0.32
+4,"4 Stability-first, prep-aware",50,0.78,0.22,0.14,0.28
+4,"4 Stability-first, prep-aware",100,0.71,0.16,0.22,0.24
+5,1 Conventional (library Welch),25,0.84,0.24,0.68,0.08
+5,1 Conventional (library Welch),50,0.86,0.18,0.78,0.04
+5,1 Conventional (library Welch),100,0.87,0.15,0.82,0.04
+5,2 Paired single fit,25,0.96,0.2,0.68,0.36
+5,2 Paired single fit,50,0.94,0.26,0.68,0.3
+5,2 Paired single fit,100,0.91,0.33,0.62,0.31
+5,"3 Stability-first, prep-agnostic",25,0.92,0.12,0.92,0.04
+5,"3 Stability-first, prep-agnostic",50,0.94,0.08,0.94,0.04
+5,"3 Stability-first, prep-agnostic",100,0.9,0.11,0.85,0.11
+5,"4 Stability-first, prep-aware",25,0.48,0.04,0.56,0.12
+5,"4 Stability-first, prep-aware",50,0.56,0.04,0.56,0.12
+5,"4 Stability-first, prep-aware",100,0.61,0.07,0.56,0.18
+6,1 Conventional (library Welch),25,1.0,0.6,0.12,0.36
+6,1 Conventional (library Welch),50,1.0,0.54,0.12,0.32
+6,1 Conventional (library Welch),100,0.99,0.45,0.19,0.34
+6,2 Paired single fit,25,1.0,0.52,0.2,0.64
+6,2 Paired single fit,50,1.0,0.52,0.18,0.64
+6,2 Paired single fit,100,0.97,0.42,0.18,0.57
+6,"3 Stability-first, prep-agnostic",25,1.0,0.48,0.16,0.64
+6,"3 Stability-first, prep-agnostic",50,1.0,0.5,0.14,0.62
+6,"3 Stability-first, prep-agnostic",100,0.97,0.39,0.16,0.51
+6,"4 Stability-first, prep-aware",25,0.88,0.32,0.2,0.56
+6,"4 Stability-first, prep-aware",50,0.9,0.28,0.26,0.48
+6,"4 Stability-first, prep-aware",100,0.89,0.23,0.28,0.45
+7,1 Conventional (library Welch),25,0.92,0.4,0.44,0.24
+7,1 Conventional (library Welch),50,0.94,0.32,0.38,0.28
+7,1 Conventional (library Welch),100,0.93,0.38,0.36,0.24
+7,2 Paired single fit,25,0.96,0.56,0.28,0.36
+7,2 Paired single fit,50,0.94,0.5,0.34,0.38
+7,2 Paired single fit,100,0.9,0.43,0.33,0.47
+7,"3 Stability-first, prep-agnostic",25,0.96,0.64,0.36,0.4
+7,"3 Stability-first, prep-agnostic",50,0.96,0.64,0.3,0.4
+7,"3 Stability-first, prep-agnostic",100,0.96,0.46,0.27,0.42
+7,"4 Stability-first, prep-aware",25,0.76,0.48,0.12,0.44
+7,"4 Stability-first, prep-aware",50,0.66,0.32,0.08,0.36
+7,"4 Stability-first, prep-aware",100,0.73,0.21,0.05,0.32
+8,1 Conventional (library Welch),25,0.96,0.52,0.16,0.16
+8,1 Conventional (library Welch),50,0.96,0.54,0.14,0.18
+8,1 Conventional (library Welch),100,0.95,0.54,0.2,0.22
+8,2 Paired single fit,25,1.0,0.64,0.12,0.44
+8,2 Paired single fit,50,0.94,0.62,0.16,0.42
+8,2 Paired single fit,100,0.93,0.58,0.16,0.43
+8,"3 Stability-first, prep-agnostic",25,0.96,0.56,0.0,0.32
+8,"3 Stability-first, prep-agnostic",50,0.94,0.54,0.1,0.34
+8,"3 Stability-first, prep-agnostic",100,0.94,0.49,0.11,0.38
+8,"4 Stability-first, prep-aware",25,0.4,0.12,0.0,0.16
+8,"4 Stability-first, prep-aware",50,0.52,0.18,0.02,0.22
+8,"4 Stability-first, prep-aware",100,0.55,0.15,0.03,0.22
+9,1 Conventional (library Welch),25,0.96,0.52,0.16,0.08
+9,1 Conventional (library Welch),50,0.96,0.48,0.12,0.18
+9,1 Conventional (library Welch),100,0.96,0.36,0.15,0.19
+9,2 Paired single fit,25,1.0,0.52,0.12,0.4
+9,2 Paired single fit,50,1.0,0.36,0.12,0.38
+9,2 Paired single fit,100,0.99,0.31,0.13,0.35
+9,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.12,0.4
+9,"3 Stability-first, prep-agnostic",50,0.98,0.4,0.08,0.42
+9,"3 Stability-first, prep-agnostic",100,0.99,0.37,0.13,0.44
+9,"4 Stability-first, prep-aware",25,0.92,0.28,0.08,0.24
+9,"4 Stability-first, prep-aware",50,0.94,0.26,0.06,0.3
+9,"4 Stability-first, prep-aware",100,0.9,0.24,0.06,0.35
+10,1 Conventional (library Welch),25,0.92,0.32,0.48,0.0
+10,1 Conventional (library Welch),50,0.96,0.3,0.52,0.0
+10,1 Conventional (library Welch),100,0.97,0.32,0.61,0.01
+10,2 Paired single fit,25,0.96,0.36,0.48,0.2
+10,2 Paired single fit,50,0.92,0.3,0.44,0.14
+10,2 Paired single fit,100,0.94,0.27,0.45,0.18
+10,"3 Stability-first, prep-agnostic",25,0.96,0.44,0.32,0.2
+10,"3 Stability-first, prep-agnostic",50,0.94,0.36,0.36,0.22
+10,"3 Stability-first, prep-agnostic",100,0.9,0.29,0.42,0.23
+10,"4 Stability-first, prep-aware",25,0.8,0.44,0.2,0.4
+10,"4 Stability-first, prep-aware",50,0.84,0.32,0.14,0.46
+10,"4 Stability-first, prep-aware",100,0.83,0.27,0.15,0.36
+11,1 Conventional (library Welch),25,1.0,0.16,0.24,0.08
+11,1 Conventional (library Welch),50,0.94,0.14,0.18,0.14
+11,1 Conventional (library Welch),100,0.93,0.18,0.26,0.12
+11,2 Paired single fit,25,1.0,0.36,0.08,0.32
+11,2 Paired single fit,50,1.0,0.26,0.2,0.36
+11,2 Paired single fit,100,0.99,0.26,0.28,0.3
+11,"3 Stability-first, prep-agnostic",25,0.96,0.28,0.2,0.28
+11,"3 Stability-first, prep-agnostic",50,0.94,0.26,0.26,0.3
+11,"3 Stability-first, prep-agnostic",100,0.95,0.26,0.25,0.3
+11,"4 Stability-first, prep-aware",25,0.88,0.28,0.16,0.28
+11,"4 Stability-first, prep-aware",50,0.94,0.28,0.2,0.3
+11,"4 Stability-first, prep-aware",100,0.91,0.22,0.19,0.32
+12,1 Conventional (library Welch),25,1.0,0.4,0.16,0.24
+12,1 Conventional (library Welch),50,0.98,0.42,0.26,0.2
+12,1 Conventional (library Welch),100,0.96,0.42,0.24,0.17
+12,2 Paired single fit,25,1.0,0.4,0.12,0.4
+12,2 Paired single fit,50,1.0,0.42,0.18,0.36
+12,2 Paired single fit,100,0.98,0.39,0.25,0.3
+12,"3 Stability-first, prep-agnostic",25,1.0,0.44,0.08,0.36
+12,"3 Stability-first, prep-agnostic",50,0.96,0.34,0.1,0.34
+12,"3 Stability-first, prep-agnostic",100,0.95,0.33,0.17,0.3
+12,"4 Stability-first, prep-aware",25,0.88,0.4,0.12,0.32
+12,"4 Stability-first, prep-aware",50,0.86,0.28,0.18,0.3
+12,"4 Stability-first, prep-aware",100,0.82,0.23,0.17,0.32
+13,1 Conventional (library Welch),25,1.0,0.48,0.24,0.0
+13,1 Conventional (library Welch),50,1.0,0.46,0.5,0.02
+13,1 Conventional (library Welch),100,1.0,0.44,0.55,0.05
+13,2 Paired single fit,25,1.0,0.68,0.4,0.28
+13,2 Paired single fit,50,0.88,0.5,0.32,0.26
+13,2 Paired single fit,100,0.88,0.36,0.38,0.29
+13,"3 Stability-first, prep-agnostic",25,0.96,0.6,0.36,0.4
+13,"3 Stability-first, prep-agnostic",50,0.92,0.52,0.26,0.34
+13,"3 Stability-first, prep-agnostic",100,0.92,0.4,0.32,0.36
+13,"4 Stability-first, prep-aware",25,0.72,0.48,0.12,0.28
+13,"4 Stability-first, prep-aware",50,0.76,0.34,0.18,0.32
+13,"4 Stability-first, prep-aware",100,0.72,0.29,0.2,0.31
+14,1 Conventional (library Welch),25,1.0,0.56,0.08,0.28
+14,1 Conventional (library Welch),50,1.0,0.44,0.06,0.26
+14,1 Conventional (library Welch),100,0.99,0.4,0.09,0.26
+14,2 Paired single fit,25,0.96,0.4,0.04,0.44
+14,2 Paired single fit,50,0.98,0.4,0.04,0.48
+14,2 Paired single fit,100,0.97,0.37,0.05,0.48
+14,"3 Stability-first, prep-agnostic",25,0.96,0.36,0.04,0.44
+14,"3 Stability-first, prep-agnostic",50,0.96,0.42,0.04,0.48
+14,"3 Stability-first, prep-agnostic",100,0.96,0.37,0.07,0.4
+14,"4 Stability-first, prep-aware",25,0.84,0.4,0.08,0.28
+14,"4 Stability-first, prep-aware",50,0.86,0.28,0.06,0.36
+14,"4 Stability-first, prep-aware",100,0.83,0.21,0.04,0.36
+15,1 Conventional (library Welch),25,1.0,0.68,0.2,0.44
+15,1 Conventional (library Welch),50,0.98,0.62,0.18,0.32
+15,1 Conventional (library Welch),100,0.97,0.59,0.2,0.31
+15,2 Paired single fit,25,0.96,0.6,0.12,0.36
+15,2 Paired single fit,50,0.98,0.56,0.1,0.4
+15,2 Paired single fit,100,0.98,0.56,0.12,0.4
+15,"3 Stability-first, prep-agnostic",25,0.96,0.6,0.04,0.4
+15,"3 Stability-first, prep-agnostic",50,0.96,0.6,0.08,0.38
+15,"3 Stability-first, prep-agnostic",100,0.95,0.52,0.12,0.38
+15,"4 Stability-first, prep-aware",25,0.88,0.36,0.04,0.36
+15,"4 Stability-first, prep-aware",50,0.82,0.38,0.02,0.32
+15,"4 Stability-first, prep-aware",100,0.79,0.33,0.03,0.33
+16,1 Conventional (library Welch),25,0.92,0.48,0.24,0.08
+16,1 Conventional (library Welch),50,0.96,0.56,0.34,0.08
+16,1 Conventional (library Welch),100,0.96,0.56,0.34,0.08
+16,2 Paired single fit,25,0.96,0.52,0.08,0.32
+16,2 Paired single fit,50,0.94,0.54,0.08,0.3
+16,2 Paired single fit,100,0.96,0.48,0.25,0.26
+16,"3 Stability-first, prep-agnostic",25,0.92,0.48,0.12,0.28
+16,"3 Stability-first, prep-agnostic",50,0.92,0.5,0.08,0.36
+16,"3 Stability-first, prep-agnostic",100,0.93,0.46,0.15,0.28
+16,"4 Stability-first, prep-aware",25,0.84,0.32,0.2,0.4
+16,"4 Stability-first, prep-aware",50,0.8,0.28,0.18,0.28
+16,"4 Stability-first, prep-aware",100,0.78,0.3,0.17,0.31
+17,1 Conventional (library Welch),25,1.0,0.72,0.2,0.12
+17,1 Conventional (library Welch),50,0.98,0.72,0.18,0.16
+17,1 Conventional (library Welch),100,0.98,0.58,0.26,0.2
+17,2 Paired single fit,25,0.92,0.32,0.16,0.28
+17,2 Paired single fit,50,0.94,0.4,0.28,0.36
+17,2 Paired single fit,100,0.95,0.49,0.28,0.38
+17,"3 Stability-first, prep-agnostic",25,0.96,0.32,0.2,0.32
+17,"3 Stability-first, prep-agnostic",50,0.94,0.32,0.22,0.36
+17,"3 Stability-first, prep-agnostic",100,0.88,0.33,0.18,0.34
+17,"4 Stability-first, prep-aware",25,0.6,0.2,0.0,0.16
+17,"4 Stability-first, prep-aware",50,0.64,0.24,0.06,0.24
+17,"4 Stability-first, prep-aware",100,0.69,0.21,0.1,0.27
+18,1 Conventional (library Welch),25,1.0,0.68,0.04,0.32
+18,1 Conventional (library Welch),50,0.98,0.58,0.12,0.28
+18,1 Conventional (library Welch),100,0.97,0.55,0.11,0.27
+18,2 Paired single fit,25,0.96,0.68,0.28,0.4
+18,2 Paired single fit,50,0.96,0.54,0.2,0.4
+18,2 Paired single fit,100,0.95,0.5,0.18,0.42
+18,"3 Stability-first, prep-agnostic",25,0.96,0.64,0.12,0.32
+18,"3 Stability-first, prep-agnostic",50,0.98,0.6,0.18,0.34
+18,"3 Stability-first, prep-agnostic",100,0.95,0.47,0.15,0.38
+18,"4 Stability-first, prep-aware",25,0.68,0.32,0.0,0.4
+18,"4 Stability-first, prep-aware",50,0.74,0.22,0.02,0.46
+18,"4 Stability-first, prep-aware",100,0.72,0.22,0.06,0.37
+19,1 Conventional (library Welch),25,1.0,0.56,0.32,0.12
+19,1 Conventional (library Welch),50,0.96,0.4,0.5,0.14
+19,1 Conventional (library Welch),100,0.97,0.32,0.57,0.09
+19,2 Paired single fit,25,0.96,0.52,0.24,0.32
+19,2 Paired single fit,50,0.92,0.48,0.3,0.36
+19,2 Paired single fit,100,0.91,0.41,0.39,0.28
+19,"3 Stability-first, prep-agnostic",25,0.96,0.4,0.28,0.32
+19,"3 Stability-first, prep-agnostic",50,0.92,0.4,0.3,0.3
+19,"3 Stability-first, prep-agnostic",100,0.89,0.42,0.3,0.2
+19,"4 Stability-first, prep-aware",25,0.76,0.32,0.24,0.4
+19,"4 Stability-first, prep-aware",50,0.78,0.32,0.18,0.36
+19,"4 Stability-first, prep-aware",100,0.76,0.28,0.17,0.31
+20,1 Conventional (library Welch),25,0.92,0.48,0.0,0.12
+20,1 Conventional (library Welch),50,0.84,0.46,0.04,0.12
+20,1 Conventional (library Welch),100,0.86,0.48,0.06,0.15
+20,2 Paired single fit,25,0.96,0.4,0.0,0.32
+20,2 Paired single fit,50,0.88,0.44,0.06,0.34
+20,2 Paired single fit,100,0.87,0.45,0.1,0.38
+20,"3 Stability-first, prep-agnostic",25,0.92,0.4,0.0,0.36
+20,"3 Stability-first, prep-agnostic",50,0.78,0.3,0.0,0.32
+20,"3 Stability-first, prep-agnostic",100,0.8,0.33,0.05,0.32
+20,"4 Stability-first, prep-aware",25,0.64,0.24,0.0,0.28
+20,"4 Stability-first, prep-aware",50,0.52,0.18,0.0,0.22
+20,"4 Stability-first, prep-aware",100,0.53,0.18,0.02,0.22
+21,1 Conventional (library Welch),25,0.92,0.44,0.16,0.16
+21,1 Conventional (library Welch),50,0.9,0.46,0.2,0.12
+21,1 Conventional (library Welch),100,0.92,0.36,0.23,0.11
+21,2 Paired single fit,25,0.96,0.52,0.12,0.24
+21,2 Paired single fit,50,0.92,0.48,0.18,0.24
+21,2 Paired single fit,100,0.94,0.49,0.33,0.3
+21,"3 Stability-first, prep-agnostic",25,0.96,0.52,0.2,0.28
+21,"3 Stability-first, prep-agnostic",50,0.96,0.46,0.2,0.3
+21,"3 Stability-first, prep-agnostic",100,0.95,0.5,0.24,0.34
+21,"4 Stability-first, prep-aware",25,0.84,0.32,0.2,0.36
+21,"4 Stability-first, prep-aware",50,0.8,0.26,0.14,0.36
+21,"4 Stability-first, prep-aware",100,0.78,0.23,0.17,0.35
+22,1 Conventional (library Welch),25,1.0,0.64,0.28,0.04
+22,1 Conventional (library Welch),50,0.98,0.62,0.24,0.02
+22,1 Conventional (library Welch),100,0.97,0.61,0.25,0.08
+22,2 Paired single fit,25,0.96,0.48,0.08,0.44
+22,2 Paired single fit,50,0.92,0.46,0.14,0.46
+22,2 Paired single fit,100,0.96,0.48,0.19,0.45
+22,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.12,0.56
+22,"3 Stability-first, prep-agnostic",50,0.96,0.44,0.14,0.5
+22,"3 Stability-first, prep-agnostic",100,0.94,0.43,0.15,0.48
+22,"4 Stability-first, prep-aware",25,0.56,0.08,0.04,0.2
+22,"4 Stability-first, prep-aware",50,0.52,0.1,0.06,0.2
+22,"4 Stability-first, prep-aware",100,0.56,0.15,0.08,0.16
+23,1 Conventional (library Welch),25,0.96,0.52,0.2,0.04
+23,1 Conventional (library Welch),50,0.94,0.44,0.18,0.04
+23,1 Conventional (library Welch),100,0.94,0.31,0.32,0.05
+23,2 Paired single fit,25,0.96,0.32,0.28,0.16
+23,2 Paired single fit,50,0.96,0.32,0.24,0.12
+23,2 Paired single fit,100,0.95,0.28,0.32,0.16
+23,"3 Stability-first, prep-agnostic",25,0.96,0.4,0.24,0.16
+23,"3 Stability-first, prep-agnostic",50,0.92,0.34,0.26,0.16
+23,"3 Stability-first, prep-agnostic",100,0.92,0.27,0.27,0.15
+23,"4 Stability-first, prep-aware",25,0.72,0.24,0.2,0.16
+23,"4 Stability-first, prep-aware",50,0.78,0.26,0.18,0.24
+23,"4 Stability-first, prep-aware",100,0.82,0.24,0.16,0.25
+24,1 Conventional (library Welch),25,0.88,0.44,0.2,0.0
+24,1 Conventional (library Welch),50,0.92,0.34,0.34,0.06
+24,1 Conventional (library Welch),100,0.93,0.29,0.37,0.06
+24,2 Paired single fit,25,1.0,0.28,0.16,0.16
+24,2 Paired single fit,50,0.96,0.28,0.24,0.2
+24,2 Paired single fit,100,0.92,0.28,0.36,0.2
+24,"3 Stability-first, prep-agnostic",25,0.96,0.28,0.16,0.16
+24,"3 Stability-first, prep-agnostic",50,0.94,0.28,0.3,0.12
+24,"3 Stability-first, prep-agnostic",100,0.94,0.3,0.28,0.18
+24,"4 Stability-first, prep-aware",25,0.68,0.16,0.28,0.24
+24,"4 Stability-first, prep-aware",50,0.64,0.2,0.3,0.22
+24,"4 Stability-first, prep-aware",100,0.62,0.13,0.36,0.19
+25,1 Conventional (library Welch),25,0.88,0.2,0.04,0.24
+25,1 Conventional (library Welch),50,0.9,0.32,0.06,0.18
+25,1 Conventional (library Welch),100,0.91,0.41,0.1,0.26
+25,2 Paired single fit,25,0.92,0.48,0.16,0.6
+25,2 Paired single fit,50,0.96,0.48,0.12,0.52
+25,2 Paired single fit,100,0.86,0.43,0.13,0.47
+25,"3 Stability-first, prep-agnostic",25,1.0,0.44,0.2,0.6
+25,"3 Stability-first, prep-agnostic",50,0.94,0.46,0.14,0.54
+25,"3 Stability-first, prep-agnostic",100,0.91,0.44,0.1,0.49
+25,"4 Stability-first, prep-aware",25,0.8,0.32,0.12,0.36
+25,"4 Stability-first, prep-aware",50,0.76,0.26,0.12,0.32
+25,"4 Stability-first, prep-aware",100,0.76,0.26,0.07,0.31
+26,1 Conventional (library Welch),25,1.0,0.52,0.16,0.44
+26,1 Conventional (library Welch),50,0.98,0.54,0.18,0.46
+26,1 Conventional (library Welch),100,0.95,0.54,0.2,0.38
+26,2 Paired single fit,25,0.96,0.44,0.36,0.56
+26,2 Paired single fit,50,0.96,0.4,0.24,0.62
+26,2 Paired single fit,100,0.94,0.42,0.2,0.55
+26,"3 Stability-first, prep-agnostic",25,1.0,0.48,0.24,0.68
+26,"3 Stability-first, prep-agnostic",50,0.98,0.38,0.22,0.62
+26,"3 Stability-first, prep-agnostic",100,0.95,0.38,0.18,0.56
+26,"4 Stability-first, prep-aware",25,0.84,0.36,0.2,0.32
+26,"4 Stability-first, prep-aware",50,0.72,0.22,0.16,0.38
+26,"4 Stability-first, prep-aware",100,0.71,0.21,0.13,0.36
+27,1 Conventional (library Welch),25,0.96,0.44,0.2,0.28
+27,1 Conventional (library Welch),50,0.94,0.46,0.16,0.36
+27,1 Conventional (library Welch),100,0.93,0.39,0.18,0.28
+27,2 Paired single fit,25,0.92,0.2,0.32,0.32
+27,2 Paired single fit,50,0.92,0.3,0.28,0.36
+27,2 Paired single fit,100,0.92,0.4,0.28,0.38
+27,"3 Stability-first, prep-agnostic",25,0.92,0.4,0.4,0.4
+27,"3 Stability-first, prep-agnostic",50,0.82,0.3,0.28,0.38
+27,"3 Stability-first, prep-agnostic",100,0.88,0.32,0.23,0.39
+27,"4 Stability-first, prep-aware",25,0.76,0.2,0.0,0.48
+27,"4 Stability-first, prep-aware",50,0.72,0.16,0.12,0.32
+27,"4 Stability-first, prep-aware",100,0.66,0.16,0.12,0.29
+28,1 Conventional (library Welch),25,0.92,0.52,0.12,0.2
+28,1 Conventional (library Welch),50,0.9,0.52,0.12,0.18
+28,1 Conventional (library Welch),100,0.83,0.49,0.09,0.21
+28,2 Paired single fit,25,0.72,0.52,0.08,0.28
+28,2 Paired single fit,50,0.7,0.46,0.1,0.3
+28,2 Paired single fit,100,0.7,0.42,0.1,0.32
+28,"3 Stability-first, prep-agnostic",25,0.8,0.44,0.08,0.44
+28,"3 Stability-first, prep-agnostic",50,0.74,0.38,0.04,0.46
+28,"3 Stability-first, prep-agnostic",100,0.64,0.35,0.05,0.39
+28,"4 Stability-first, prep-aware",25,0.72,0.52,0.08,0.28
+28,"4 Stability-first, prep-aware",50,0.7,0.46,0.1,0.3
+28,"4 Stability-first, prep-aware",100,0.7,0.42,0.1,0.32
+29,1 Conventional (library Welch),25,1.0,0.4,0.28,0.08
+29,1 Conventional (library Welch),50,1.0,0.48,0.36,0.08
+29,1 Conventional (library Welch),100,0.98,0.44,0.38,0.07
+29,2 Paired single fit,25,1.0,0.48,0.4,0.36
+29,2 Paired single fit,50,1.0,0.54,0.42,0.24
+29,2 Paired single fit,100,0.99,0.44,0.4,0.27
+29,"3 Stability-first, prep-agnostic",25,0.96,0.44,0.36,0.28
+29,"3 Stability-first, prep-agnostic",50,0.94,0.38,0.36,0.28
+29,"3 Stability-first, prep-agnostic",100,0.96,0.4,0.33,0.27
+29,"4 Stability-first, prep-aware",25,0.64,0.36,0.16,0.2
+29,"4 Stability-first, prep-aware",50,0.7,0.32,0.18,0.28
+29,"4 Stability-first, prep-aware",100,0.75,0.24,0.24,0.26
+30,1 Conventional (library Welch),25,1.0,0.56,0.4,0.16
+30,1 Conventional (library Welch),50,0.98,0.58,0.46,0.14
+30,1 Conventional (library Welch),100,0.97,0.59,0.52,0.13
+30,2 Paired single fit,25,0.96,0.64,0.2,0.48
+30,2 Paired single fit,50,0.98,0.6,0.32,0.42
+30,2 Paired single fit,100,0.92,0.57,0.39,0.42
+30,"3 Stability-first, prep-agnostic",25,1.0,0.64,0.24,0.56
+30,"3 Stability-first, prep-agnostic",50,1.0,0.62,0.2,0.5
+30,"3 Stability-first, prep-agnostic",100,0.91,0.46,0.27,0.44
+30,"4 Stability-first, prep-aware",25,0.72,0.4,0.28,0.44
+30,"4 Stability-first, prep-aware",50,0.74,0.28,0.2,0.36
+30,"4 Stability-first, prep-aware",100,0.7,0.25,0.19,0.35
+31,1 Conventional (library Welch),25,1.0,0.36,0.56,0.08
+31,1 Conventional (library Welch),50,1.0,0.3,0.7,0.1
+31,1 Conventional (library Welch),100,0.98,0.34,0.69,0.07
+31,2 Paired single fit,25,1.0,0.56,0.64,0.2
+31,2 Paired single fit,50,1.0,0.48,0.56,0.32
+31,2 Paired single fit,100,0.95,0.38,0.6,0.27
+31,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.64,0.32
+31,"3 Stability-first, prep-agnostic",50,0.96,0.4,0.56,0.26
+31,"3 Stability-first, prep-agnostic",100,0.9,0.29,0.52,0.31
+31,"4 Stability-first, prep-aware",25,0.64,0.32,0.2,0.28
+31,"4 Stability-first, prep-aware",50,0.72,0.3,0.16,0.3
+31,"4 Stability-first, prep-aware",100,0.73,0.22,0.19,0.33
+32,1 Conventional (library Welch),25,0.84,0.24,0.04,0.04
+32,1 Conventional (library Welch),50,0.9,0.36,0.02,0.08
+32,1 Conventional (library Welch),100,0.92,0.38,0.03,0.11
+32,2 Paired single fit,25,0.96,0.24,0.04,0.12
+32,2 Paired single fit,50,0.92,0.2,0.02,0.22
+32,2 Paired single fit,100,0.92,0.23,0.07,0.21
+32,"3 Stability-first, prep-agnostic",25,0.92,0.32,0.08,0.16
+32,"3 Stability-first, prep-agnostic",50,0.9,0.26,0.04,0.16
+32,"3 Stability-first, prep-agnostic",100,0.91,0.25,0.03,0.21
+32,"4 Stability-first, prep-aware",25,0.84,0.4,0.04,0.44
+32,"4 Stability-first, prep-aware",50,0.86,0.24,0.06,0.32
+32,"4 Stability-first, prep-aware",100,0.77,0.18,0.05,0.28
+33,1 Conventional (library Welch),25,1.0,0.44,0.48,0.12
+33,1 Conventional (library Welch),50,0.98,0.44,0.54,0.08
+33,1 Conventional (library Welch),100,0.98,0.39,0.56,0.08
+33,2 Paired single fit,25,0.96,0.64,0.32,0.36
+33,2 Paired single fit,50,0.92,0.48,0.34,0.3
+33,2 Paired single fit,100,0.93,0.43,0.41,0.25
+33,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.32,0.28
+33,"3 Stability-first, prep-agnostic",50,0.92,0.4,0.28,0.32
+33,"3 Stability-first, prep-agnostic",100,0.92,0.36,0.32,0.3
+33,"4 Stability-first, prep-aware",25,0.84,0.4,0.2,0.32
+33,"4 Stability-first, prep-aware",50,0.76,0.34,0.18,0.32
+33,"4 Stability-first, prep-aware",100,0.71,0.3,0.16,0.27
+34,1 Conventional (library Welch),25,1.0,0.52,0.12,0.16
+34,1 Conventional (library Welch),50,0.98,0.54,0.14,0.12
+34,1 Conventional (library Welch),100,0.99,0.46,0.23,0.08
+34,2 Paired single fit,25,0.92,0.44,0.08,0.28
+34,2 Paired single fit,50,0.82,0.4,0.14,0.26
+34,2 Paired single fit,100,0.82,0.31,0.23,0.21
+34,"3 Stability-first, prep-agnostic",25,0.8,0.44,0.16,0.28
+34,"3 Stability-first, prep-agnostic",50,0.84,0.44,0.14,0.26
+34,"3 Stability-first, prep-agnostic",100,0.8,0.36,0.16,0.24
+34,"4 Stability-first, prep-aware",25,0.72,0.12,0.12,0.2
+34,"4 Stability-first, prep-aware",50,0.62,0.12,0.14,0.28
+34,"4 Stability-first, prep-aware",100,0.67,0.16,0.22,0.26
+35,1 Conventional (library Welch),25,1.0,0.4,0.08,0.28
+35,1 Conventional (library Welch),50,0.98,0.42,0.06,0.46
+35,1 Conventional (library Welch),100,0.99,0.44,0.04,0.48
+35,2 Paired single fit,25,1.0,0.44,0.04,0.72
+35,2 Paired single fit,50,0.98,0.48,0.04,0.74
+35,2 Paired single fit,100,0.97,0.41,0.07,0.67
+35,"3 Stability-first, prep-agnostic",25,0.92,0.32,0.04,0.76
+35,"3 Stability-first, prep-agnostic",50,0.94,0.42,0.1,0.7
+35,"3 Stability-first, prep-agnostic",100,0.95,0.37,0.05,0.55
+35,"4 Stability-first, prep-aware",25,0.76,0.2,0.04,0.44
+35,"4 Stability-first, prep-aware",50,0.66,0.2,0.02,0.42
+35,"4 Stability-first, prep-aware",100,0.54,0.16,0.01,0.33
+36,1 Conventional (library Welch),25,1.0,0.44,0.2,0.0
+36,1 Conventional (library Welch),50,0.98,0.44,0.24,0.04
+36,1 Conventional (library Welch),100,0.99,0.33,0.36,0.05
+36,2 Paired single fit,25,1.0,0.36,0.16,0.2
+36,2 Paired single fit,50,1.0,0.4,0.22,0.18
+36,2 Paired single fit,100,0.99,0.4,0.29,0.22
+36,"3 Stability-first, prep-agnostic",25,1.0,0.4,0.24,0.08
+36,"3 Stability-first, prep-agnostic",50,1.0,0.34,0.2,0.14
+36,"3 Stability-first, prep-agnostic",100,0.97,0.38,0.17,0.14
+36,"4 Stability-first, prep-aware",25,0.88,0.32,0.08,0.2
+36,"4 Stability-first, prep-aware",50,0.9,0.34,0.12,0.28
+36,"4 Stability-first, prep-aware",100,0.85,0.3,0.18,0.32
+37,1 Conventional (library Welch),25,1.0,0.4,0.72,0.08
+37,1 Conventional (library Welch),50,1.0,0.36,0.62,0.08
+37,1 Conventional (library Welch),100,0.98,0.33,0.69,0.07
+37,2 Paired single fit,25,1.0,0.48,0.32,0.36
+37,2 Paired single fit,50,1.0,0.44,0.44,0.28
+37,2 Paired single fit,100,0.97,0.42,0.54,0.25
+37,"3 Stability-first, prep-agnostic",25,0.96,0.52,0.24,0.4
+37,"3 Stability-first, prep-agnostic",50,0.94,0.42,0.34,0.26
+37,"3 Stability-first, prep-agnostic",100,0.88,0.4,0.41,0.27
+37,"4 Stability-first, prep-aware",25,0.92,0.36,0.24,0.36
+37,"4 Stability-first, prep-aware",50,0.86,0.26,0.16,0.36
+37,"4 Stability-first, prep-aware",100,0.81,0.22,0.14,0.42
+38,1 Conventional (library Welch),25,1.0,0.44,0.12,0.28
+38,1 Conventional (library Welch),50,1.0,0.4,0.1,0.3
+38,1 Conventional (library Welch),100,0.97,0.42,0.1,0.35
+38,2 Paired single fit,25,1.0,0.56,0.12,0.44
+38,2 Paired single fit,50,0.98,0.44,0.12,0.48
+38,2 Paired single fit,100,0.95,0.38,0.12,0.43
+38,"3 Stability-first, prep-agnostic",25,1.0,0.56,0.12,0.36
+38,"3 Stability-first, prep-agnostic",50,0.98,0.52,0.1,0.44
+38,"3 Stability-first, prep-agnostic",100,0.94,0.4,0.12,0.4
+38,"4 Stability-first, prep-aware",25,0.96,0.28,0.0,0.44
+38,"4 Stability-first, prep-aware",50,0.96,0.28,0.02,0.28
+38,"4 Stability-first, prep-aware",100,0.9,0.29,0.06,0.3
+39,1 Conventional (library Welch),25,1.0,0.4,0.2,0.28
+39,1 Conventional (library Welch),50,0.98,0.44,0.26,0.24
+39,1 Conventional (library Welch),100,0.98,0.4,0.24,0.17
+39,2 Paired single fit,25,1.0,0.52,0.16,0.4
+39,2 Paired single fit,50,0.98,0.48,0.2,0.38
+39,2 Paired single fit,100,0.98,0.35,0.24,0.26
+39,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.2,0.36
+39,"3 Stability-first, prep-agnostic",50,1.0,0.52,0.18,0.38
+39,"3 Stability-first, prep-agnostic",100,0.99,0.4,0.19,0.3
+39,"4 Stability-first, prep-aware",25,0.92,0.32,0.16,0.36
+39,"4 Stability-first, prep-aware",50,0.86,0.28,0.12,0.5
+39,"4 Stability-first, prep-aware",100,0.77,0.19,0.14,0.32
+40,1 Conventional (library Welch),25,0.92,0.68,0.04,0.08
+40,1 Conventional (library Welch),50,0.96,0.62,0.1,0.06
+40,1 Conventional (library Welch),100,0.98,0.55,0.15,0.07
+40,2 Paired single fit,25,1.0,0.64,0.04,0.44
+40,2 Paired single fit,50,0.92,0.48,0.1,0.3
+40,2 Paired single fit,100,0.94,0.48,0.18,0.31
+40,"3 Stability-first, prep-agnostic",25,1.0,0.56,0.08,0.44
+40,"3 Stability-first, prep-agnostic",50,1.0,0.52,0.06,0.38
+40,"3 Stability-first, prep-agnostic",100,0.92,0.44,0.06,0.31
+40,"4 Stability-first, prep-aware",25,0.8,0.44,0.08,0.36
+40,"4 Stability-first, prep-aware",50,0.74,0.3,0.08,0.28
+40,"4 Stability-first, prep-aware",100,0.71,0.25,0.1,0.27
+41,1 Conventional (library Welch),25,0.88,0.12,0.32,0.08
+41,1 Conventional (library Welch),50,0.9,0.14,0.26,0.06
+41,1 Conventional (library Welch),100,0.89,0.14,0.28,0.05
+41,2 Paired single fit,25,0.96,0.28,0.32,0.16
+41,2 Paired single fit,50,0.98,0.34,0.44,0.14
+41,2 Paired single fit,100,0.98,0.23,0.39,0.17
+41,"3 Stability-first, prep-agnostic",25,0.96,0.2,0.36,0.08
+41,"3 Stability-first, prep-agnostic",50,0.96,0.26,0.3,0.12
+41,"3 Stability-first, prep-agnostic",100,0.96,0.28,0.34,0.14
+41,"4 Stability-first, prep-aware",25,0.84,0.2,0.16,0.24
+41,"4 Stability-first, prep-aware",50,0.84,0.28,0.14,0.3
+41,"4 Stability-first, prep-aware",100,0.83,0.21,0.13,0.26
+42,1 Conventional (library Welch),25,0.92,0.12,0.64,0.0
+42,1 Conventional (library Welch),50,0.92,0.1,0.74,0.0
+42,1 Conventional (library Welch),100,0.88,0.08,0.75,0.01
+42,2 Paired single fit,25,0.96,0.2,0.64,0.12
+42,2 Paired single fit,50,0.94,0.12,0.58,0.1
+42,2 Paired single fit,100,0.93,0.1,0.63,0.06
+42,"3 Stability-first, prep-agnostic",25,0.84,0.04,0.88,0.0
+42,"3 Stability-first, prep-agnostic",50,0.88,0.02,0.88,0.02
+42,"3 Stability-first, prep-agnostic",100,0.79,0.03,0.85,0.05
+42,"4 Stability-first, prep-aware",25,0.8,0.16,0.16,0.16
+42,"4 Stability-first, prep-aware",50,0.8,0.18,0.16,0.16
+42,"4 Stability-first, prep-aware",100,0.79,0.16,0.22,0.2
+43,1 Conventional (library Welch),25,0.88,0.2,0.32,0.08
+43,1 Conventional (library Welch),50,0.9,0.22,0.24,0.04
+43,1 Conventional (library Welch),100,0.93,0.24,0.31,0.12
+43,2 Paired single fit,25,1.0,0.48,0.2,0.2
+43,2 Paired single fit,50,1.0,0.46,0.26,0.24
+43,2 Paired single fit,100,0.95,0.43,0.32,0.24
+43,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.2,0.32
+43,"3 Stability-first, prep-agnostic",50,0.98,0.44,0.18,0.28
+43,"3 Stability-first, prep-agnostic",100,0.98,0.38,0.29,0.26
+43,"4 Stability-first, prep-aware",25,0.8,0.44,0.04,0.36
+43,"4 Stability-first, prep-aware",50,0.82,0.32,0.06,0.3
+43,"4 Stability-first, prep-aware",100,0.81,0.21,0.06,0.27
+44,1 Conventional (library Welch),25,0.84,0.44,0.12,0.16
+44,1 Conventional (library Welch),50,0.92,0.52,0.3,0.12
+44,1 Conventional (library Welch),100,0.94,0.46,0.34,0.19
+44,2 Paired single fit,25,1.0,0.52,0.4,0.44
+44,2 Paired single fit,50,0.98,0.5,0.36,0.36
+44,2 Paired single fit,100,0.97,0.47,0.35,0.32
+44,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.4,0.44
+44,"3 Stability-first, prep-agnostic",50,0.96,0.44,0.32,0.46
+44,"3 Stability-first, prep-agnostic",100,0.95,0.44,0.33,0.35
+44,"4 Stability-first, prep-aware",25,0.84,0.2,0.28,0.36
+44,"4 Stability-first, prep-aware",50,0.84,0.3,0.22,0.36
+44,"4 Stability-first, prep-aware",100,0.79,0.22,0.19,0.32
+45,1 Conventional (library Welch),25,0.96,0.64,0.28,0.08
+45,1 Conventional (library Welch),50,0.98,0.56,0.48,0.04
+45,1 Conventional (library Welch),100,0.99,0.5,0.47,0.05
+45,2 Paired single fit,25,0.76,0.32,0.16,0.24
+45,2 Paired single fit,50,0.82,0.28,0.34,0.2
+45,2 Paired single fit,100,0.83,0.31,0.39,0.21
+45,"3 Stability-first, prep-agnostic",25,0.8,0.4,0.08,0.32
+45,"3 Stability-first, prep-agnostic",50,0.8,0.24,0.18,0.26
+45,"3 Stability-first, prep-agnostic",100,0.81,0.28,0.23,0.25
+45,"4 Stability-first, prep-aware",25,0.56,0.12,0.32,0.12
+45,"4 Stability-first, prep-aware",50,0.62,0.16,0.22,0.16
+45,"4 Stability-first, prep-aware",100,0.56,0.1,0.18,0.15
+46,1 Conventional (library Welch),25,1.0,0.36,0.24,0.0
+46,1 Conventional (library Welch),50,0.98,0.42,0.3,0.06
+46,1 Conventional (library Welch),100,0.96,0.34,0.24,0.07
+46,2 Paired single fit,25,0.96,0.48,0.28,0.36
+46,2 Paired single fit,50,0.98,0.52,0.2,0.36
+46,2 Paired single fit,100,0.99,0.45,0.21,0.29
+46,"3 Stability-first, prep-agnostic",25,0.96,0.6,0.16,0.24
+46,"3 Stability-first, prep-agnostic",50,0.92,0.52,0.12,0.28
+46,"3 Stability-first, prep-agnostic",100,0.93,0.48,0.17,0.24
+46,"4 Stability-first, prep-aware",25,0.88,0.44,0.0,0.32
+46,"4 Stability-first, prep-aware",50,0.74,0.28,0.04,0.34
+46,"4 Stability-first, prep-aware",100,0.79,0.3,0.08,0.35
+47,1 Conventional (library Welch),25,0.96,0.4,0.28,0.32
+47,1 Conventional (library Welch),50,0.98,0.42,0.18,0.3
+47,1 Conventional (library Welch),100,0.97,0.38,0.2,0.26
+47,2 Paired single fit,25,0.96,0.52,0.16,0.6
+47,2 Paired single fit,50,0.94,0.52,0.24,0.5
+47,2 Paired single fit,100,0.97,0.44,0.22,0.44
+47,"3 Stability-first, prep-agnostic",25,0.96,0.52,0.24,0.64
+47,"3 Stability-first, prep-agnostic",50,0.98,0.5,0.22,0.56
+47,"3 Stability-first, prep-agnostic",100,0.95,0.41,0.23,0.48
+47,"4 Stability-first, prep-aware",25,0.56,0.08,0.16,0.24
+47,"4 Stability-first, prep-aware",50,0.58,0.12,0.2,0.26
+47,"4 Stability-first, prep-aware",100,0.61,0.12,0.17,0.24
+48,1 Conventional (library Welch),25,0.96,0.48,0.28,0.08
+48,1 Conventional (library Welch),50,0.96,0.54,0.4,0.06
+48,1 Conventional (library Welch),100,0.98,0.58,0.38,0.05
+48,2 Paired single fit,25,1.0,0.48,0.2,0.28
+48,2 Paired single fit,50,0.96,0.44,0.2,0.3
+48,2 Paired single fit,100,0.96,0.39,0.29,0.26
+48,"3 Stability-first, prep-agnostic",25,0.92,0.48,0.16,0.24
+48,"3 Stability-first, prep-agnostic",50,0.9,0.42,0.22,0.22
+48,"3 Stability-first, prep-agnostic",100,0.91,0.35,0.24,0.21
+48,"4 Stability-first, prep-aware",25,0.88,0.4,0.0,0.28
+48,"4 Stability-first, prep-aware",50,0.86,0.32,0.08,0.34
+48,"4 Stability-first, prep-aware",100,0.81,0.29,0.14,0.28
+49,1 Conventional (library Welch),25,1.0,0.64,0.2,0.12
+49,1 Conventional (library Welch),50,1.0,0.52,0.22,0.24
+49,1 Conventional (library Welch),100,0.97,0.44,0.25,0.26
+49,2 Paired single fit,25,0.92,0.72,0.2,0.56
+49,2 Paired single fit,50,0.9,0.58,0.3,0.44
+49,2 Paired single fit,100,0.93,0.53,0.25,0.46
+49,"3 Stability-first, prep-agnostic",25,0.96,0.64,0.24,0.44
+49,"3 Stability-first, prep-agnostic",50,0.94,0.64,0.22,0.6
+49,"3 Stability-first, prep-agnostic",100,0.89,0.48,0.18,0.46
+49,"4 Stability-first, prep-aware",25,0.88,0.44,0.16,0.4
+49,"4 Stability-first, prep-aware",50,0.76,0.38,0.1,0.42
+49,"4 Stability-first, prep-aware",100,0.68,0.3,0.07,0.35
+50,1 Conventional (library Welch),25,1.0,0.48,0.16,0.04
+50,1 Conventional (library Welch),50,1.0,0.46,0.18,0.02
+50,1 Conventional (library Welch),100,1.0,0.4,0.22,0.03
+50,2 Paired single fit,25,0.96,0.4,0.24,0.24
+50,2 Paired single fit,50,0.96,0.38,0.34,0.24
+50,2 Paired single fit,100,0.95,0.31,0.37,0.23
+50,"3 Stability-first, prep-agnostic",25,0.96,0.4,0.24,0.28
+50,"3 Stability-first, prep-agnostic",50,0.94,0.38,0.22,0.2
+50,"3 Stability-first, prep-agnostic",100,0.94,0.31,0.25,0.19
+50,"4 Stability-first, prep-aware",25,0.88,0.2,0.12,0.16
+50,"4 Stability-first, prep-aware",50,0.88,0.24,0.16,0.2
+50,"4 Stability-first, prep-aware",100,0.77,0.18,0.16,0.22
+51,1 Conventional (library Welch),25,0.96,0.68,0.04,0.08
+51,1 Conventional (library Welch),50,0.96,0.6,0.02,0.06
+51,1 Conventional (library Welch),100,0.97,0.54,0.06,0.1
+51,2 Paired single fit,25,0.96,0.6,0.0,0.36
+51,2 Paired single fit,50,0.96,0.38,0.0,0.28
+51,2 Paired single fit,100,0.92,0.44,0.04,0.28
+51,"3 Stability-first, prep-agnostic",25,0.96,0.64,0.0,0.4
+51,"3 Stability-first, prep-agnostic",50,0.92,0.5,0.02,0.36
+51,"3 Stability-first, prep-agnostic",100,0.88,0.41,0.06,0.3
+51,"4 Stability-first, prep-aware",25,0.84,0.44,0.0,0.32
+51,"4 Stability-first, prep-aware",50,0.82,0.28,0.02,0.34
+51,"4 Stability-first, prep-aware",100,0.71,0.25,0.01,0.3
+52,1 Conventional (library Welch),25,1.0,0.36,0.64,0.08
+52,1 Conventional (library Welch),50,0.96,0.3,0.62,0.1
+52,1 Conventional (library Welch),100,0.95,0.31,0.58,0.12
+52,2 Paired single fit,25,0.96,0.36,0.56,0.16
+52,2 Paired single fit,50,0.94,0.26,0.58,0.12
+52,2 Paired single fit,100,0.96,0.24,0.62,0.15
+52,"3 Stability-first, prep-agnostic",25,0.92,0.32,0.56,0.08
+52,"3 Stability-first, prep-agnostic",50,0.96,0.32,0.56,0.08
+52,"3 Stability-first, prep-agnostic",100,0.96,0.3,0.51,0.17
+52,"4 Stability-first, prep-aware",25,0.88,0.24,0.0,0.28
+52,"4 Stability-first, prep-aware",50,0.84,0.26,0.14,0.3
+52,"4 Stability-first, prep-aware",100,0.8,0.2,0.15,0.33
+53,1 Conventional (library Welch),25,0.92,0.56,0.28,0.24
+53,1 Conventional (library Welch),50,0.9,0.58,0.3,0.3
+53,1 Conventional (library Welch),100,0.93,0.5,0.29,0.26
+53,2 Paired single fit,25,0.88,0.32,0.32,0.28
+53,2 Paired single fit,50,0.88,0.38,0.38,0.32
+53,2 Paired single fit,100,0.86,0.42,0.36,0.31
+53,"3 Stability-first, prep-agnostic",25,0.92,0.36,0.4,0.44
+53,"3 Stability-first, prep-agnostic",50,0.82,0.3,0.32,0.44
+53,"3 Stability-first, prep-agnostic",100,0.86,0.38,0.31,0.33
+53,"4 Stability-first, prep-aware",25,0.8,0.2,0.12,0.44
+53,"4 Stability-first, prep-aware",50,0.74,0.18,0.12,0.32
+53,"4 Stability-first, prep-aware",100,0.72,0.19,0.1,0.29
+54,1 Conventional (library Welch),25,1.0,0.56,0.2,0.2
+54,1 Conventional (library Welch),50,0.98,0.44,0.32,0.12
+54,1 Conventional (library Welch),100,0.95,0.42,0.38,0.13
+54,2 Paired single fit,25,0.92,0.52,0.16,0.44
+54,2 Paired single fit,50,0.96,0.54,0.28,0.4
+54,2 Paired single fit,100,0.96,0.45,0.34,0.44
+54,"3 Stability-first, prep-agnostic",25,0.96,0.6,0.2,0.48
+54,"3 Stability-first, prep-agnostic",50,0.96,0.56,0.16,0.48
+54,"3 Stability-first, prep-agnostic",100,0.94,0.46,0.26,0.38
+54,"4 Stability-first, prep-aware",25,0.72,0.28,0.16,0.24
+54,"4 Stability-first, prep-aware",50,0.66,0.24,0.18,0.32
+54,"4 Stability-first, prep-aware",100,0.72,0.17,0.26,0.26
+55,1 Conventional (library Welch),25,0.88,0.24,0.04,0.08
+55,1 Conventional (library Welch),50,0.92,0.34,0.08,0.14
+55,1 Conventional (library Welch),100,0.9,0.38,0.13,0.18
+55,2 Paired single fit,25,1.0,0.4,0.2,0.32
+55,2 Paired single fit,50,0.98,0.42,0.16,0.42
+55,2 Paired single fit,100,0.95,0.44,0.19,0.35
+55,"3 Stability-first, prep-agnostic",25,1.0,0.44,0.2,0.4
+55,"3 Stability-first, prep-agnostic",50,0.96,0.42,0.18,0.34
+55,"3 Stability-first, prep-agnostic",100,0.96,0.37,0.16,0.36
+55,"4 Stability-first, prep-aware",25,0.88,0.36,0.12,0.28
+55,"4 Stability-first, prep-aware",50,0.84,0.28,0.1,0.38
+55,"4 Stability-first, prep-aware",100,0.81,0.25,0.08,0.31
+56,1 Conventional (library Welch),25,0.92,0.4,0.12,0.12
+56,1 Conventional (library Welch),50,0.94,0.38,0.18,0.16
+56,1 Conventional (library Welch),100,0.96,0.43,0.16,0.19
+56,2 Paired single fit,25,1.0,0.56,0.24,0.52
+56,2 Paired single fit,50,1.0,0.5,0.26,0.52
+56,2 Paired single fit,100,0.96,0.43,0.25,0.48
+56,"3 Stability-first, prep-agnostic",25,1.0,0.6,0.28,0.44
+56,"3 Stability-first, prep-agnostic",50,0.98,0.5,0.24,0.48
+56,"3 Stability-first, prep-agnostic",100,0.96,0.4,0.21,0.46
+56,"4 Stability-first, prep-aware",25,0.84,0.2,0.08,0.6
+56,"4 Stability-first, prep-aware",50,0.9,0.28,0.08,0.6
+56,"4 Stability-first, prep-aware",100,0.87,0.25,0.14,0.5
+57,1 Conventional (library Welch),25,0.92,0.52,0.12,0.08
+57,1 Conventional (library Welch),50,0.96,0.56,0.08,0.12
+57,1 Conventional (library Welch),100,0.94,0.55,0.13,0.14
+57,2 Paired single fit,25,0.96,0.52,0.12,0.32
+57,2 Paired single fit,50,0.92,0.42,0.14,0.34
+57,2 Paired single fit,100,0.91,0.42,0.14,0.31
+57,"3 Stability-first, prep-agnostic",25,0.88,0.56,0.12,0.24
+57,"3 Stability-first, prep-agnostic",50,0.88,0.46,0.12,0.26
+57,"3 Stability-first, prep-agnostic",100,0.87,0.43,0.14,0.32
+57,"4 Stability-first, prep-aware",25,0.72,0.44,0.04,0.28
+57,"4 Stability-first, prep-aware",50,0.72,0.36,0.06,0.32
+57,"4 Stability-first, prep-aware",100,0.67,0.29,0.05,0.3
+58,1 Conventional (library Welch),25,0.96,0.36,0.0,0.08
+58,1 Conventional (library Welch),50,0.96,0.34,0.02,0.1
+58,1 Conventional (library Welch),100,0.95,0.36,0.11,0.12
+58,2 Paired single fit,25,1.0,0.56,0.16,0.36
+58,2 Paired single fit,50,1.0,0.52,0.16,0.38
+58,2 Paired single fit,100,0.98,0.51,0.18,0.33
+58,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.2,0.32
+58,"3 Stability-first, prep-agnostic",50,0.98,0.56,0.16,0.34
+58,"3 Stability-first, prep-agnostic",100,0.98,0.52,0.17,0.29
+58,"4 Stability-first, prep-aware",25,0.72,0.4,0.12,0.32
+58,"4 Stability-first, prep-aware",50,0.76,0.34,0.12,0.42
+58,"4 Stability-first, prep-aware",100,0.74,0.3,0.08,0.36
+59,1 Conventional (library Welch),25,1.0,0.56,0.08,0.0
+59,1 Conventional (library Welch),50,0.98,0.56,0.08,0.04
+59,1 Conventional (library Welch),100,0.97,0.52,0.12,0.08
+59,2 Paired single fit,25,1.0,0.44,0.04,0.32
+59,2 Paired single fit,50,1.0,0.46,0.06,0.32
+59,2 Paired single fit,100,0.94,0.43,0.09,0.31
+59,"3 Stability-first, prep-agnostic",25,0.92,0.52,0.08,0.36
+59,"3 Stability-first, prep-agnostic",50,0.8,0.36,0.04,0.34
+59,"3 Stability-first, prep-agnostic",100,0.72,0.26,0.04,0.29
+59,"4 Stability-first, prep-aware",25,0.88,0.36,0.04,0.36
+59,"4 Stability-first, prep-aware",50,0.86,0.28,0.02,0.34
+59,"4 Stability-first, prep-aware",100,0.84,0.33,0.05,0.29
+60,1 Conventional (library Welch),25,0.96,0.2,0.12,0.16
+60,1 Conventional (library Welch),50,0.96,0.24,0.16,0.24
+60,1 Conventional (library Welch),100,0.95,0.34,0.14,0.2
+60,2 Paired single fit,25,1.0,0.52,0.0,0.4
+60,2 Paired single fit,50,0.98,0.38,0.06,0.34
+60,2 Paired single fit,100,0.98,0.31,0.09,0.27
+60,"3 Stability-first, prep-agnostic",25,1.0,0.44,0.08,0.36
+60,"3 Stability-first, prep-agnostic",50,0.98,0.44,0.08,0.32
+60,"3 Stability-first, prep-agnostic",100,0.98,0.37,0.1,0.33
+60,"4 Stability-first, prep-aware",25,0.88,0.52,0.08,0.48
+60,"4 Stability-first, prep-aware",50,0.84,0.36,0.04,0.42
+60,"4 Stability-first, prep-aware",100,0.78,0.27,0.03,0.32
+61,1 Conventional (library Welch),25,1.0,0.56,0.52,0.04
+61,1 Conventional (library Welch),50,1.0,0.52,0.54,0.04
+61,1 Conventional (library Welch),100,0.99,0.44,0.6,0.05
+61,2 Paired single fit,25,0.96,0.4,0.36,0.36
+61,2 Paired single fit,50,0.98,0.34,0.48,0.26
+61,2 Paired single fit,100,0.98,0.33,0.6,0.17
+61,"3 Stability-first, prep-agnostic",25,0.96,0.36,0.32,0.36
+61,"3 Stability-first, prep-agnostic",50,0.96,0.32,0.4,0.28
+61,"3 Stability-first, prep-agnostic",100,0.97,0.31,0.46,0.16
+61,"4 Stability-first, prep-aware",25,0.76,0.16,0.12,0.16
+61,"4 Stability-first, prep-aware",50,0.74,0.1,0.18,0.18
+61,"4 Stability-first, prep-aware",100,0.64,0.12,0.17,0.21
+62,1 Conventional (library Welch),25,0.96,0.36,0.48,0.12
+62,1 Conventional (library Welch),50,0.98,0.34,0.56,0.1
+62,1 Conventional (library Welch),100,0.96,0.26,0.59,0.07
+62,2 Paired single fit,25,0.96,0.56,0.32,0.4
+62,2 Paired single fit,50,0.94,0.4,0.46,0.26
+62,2 Paired single fit,100,0.94,0.33,0.51,0.19
+62,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.36,0.36
+62,"3 Stability-first, prep-agnostic",50,0.98,0.52,0.3,0.36
+62,"3 Stability-first, prep-agnostic",100,0.94,0.44,0.35,0.37
+62,"4 Stability-first, prep-aware",25,0.8,0.16,0.44,0.24
+62,"4 Stability-first, prep-aware",50,0.7,0.14,0.4,0.3
+62,"4 Stability-first, prep-aware",100,0.74,0.13,0.36,0.27
+63,1 Conventional (library Welch),25,0.92,0.32,0.08,0.16
+63,1 Conventional (library Welch),50,0.88,0.44,0.06,0.2
+63,1 Conventional (library Welch),100,0.92,0.46,0.11,0.22
+63,2 Paired single fit,25,1.0,0.48,0.24,0.52
+63,2 Paired single fit,50,1.0,0.58,0.22,0.5
+63,2 Paired single fit,100,0.96,0.52,0.16,0.43
+63,"3 Stability-first, prep-agnostic",25,1.0,0.48,0.16,0.64
+63,"3 Stability-first, prep-agnostic",50,0.98,0.4,0.14,0.5
+63,"3 Stability-first, prep-agnostic",100,0.94,0.45,0.12,0.52
+63,"4 Stability-first, prep-aware",25,0.76,0.4,0.16,0.36
+63,"4 Stability-first, prep-aware",50,0.78,0.26,0.14,0.42
+63,"4 Stability-first, prep-aware",100,0.7,0.21,0.12,0.36
+64,1 Conventional (library Welch),25,1.0,0.52,0.04,0.12
+64,1 Conventional (library Welch),50,0.98,0.42,0.06,0.26
+64,1 Conventional (library Welch),100,0.94,0.4,0.07,0.28
+64,2 Paired single fit,25,1.0,0.68,0.12,0.72
+64,2 Paired single fit,50,0.98,0.56,0.12,0.64
+64,2 Paired single fit,100,0.95,0.47,0.14,0.43
+64,"3 Stability-first, prep-agnostic",25,1.0,0.68,0.12,0.72
+64,"3 Stability-first, prep-agnostic",50,1.0,0.6,0.14,0.6
+64,"3 Stability-first, prep-agnostic",100,0.93,0.47,0.09,0.45
+64,"4 Stability-first, prep-aware",25,0.56,0.16,0.04,0.36
+64,"4 Stability-first, prep-aware",50,0.42,0.14,0.02,0.26
+64,"4 Stability-first, prep-aware",100,0.49,0.22,0.07,0.27
+65,1 Conventional (library Welch),25,0.96,0.6,0.32,0.12
+65,1 Conventional (library Welch),50,0.98,0.54,0.36,0.14
+65,1 Conventional (library Welch),100,0.98,0.49,0.41,0.12
+65,2 Paired single fit,25,0.96,0.36,0.16,0.28
+65,2 Paired single fit,50,0.94,0.46,0.32,0.26
+65,2 Paired single fit,100,0.94,0.45,0.4,0.27
+65,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.24,0.36
+65,"3 Stability-first, prep-agnostic",50,0.98,0.4,0.28,0.32
+65,"3 Stability-first, prep-agnostic",100,0.93,0.37,0.25,0.33
+65,"4 Stability-first, prep-aware",25,0.52,0.24,0.12,0.28
+65,"4 Stability-first, prep-aware",50,0.62,0.12,0.2,0.24
+65,"4 Stability-first, prep-aware",100,0.62,0.12,0.26,0.17
+66,1 Conventional (library Welch),25,1.0,0.44,0.2,0.44
+66,1 Conventional (library Welch),50,0.96,0.42,0.14,0.38
+66,1 Conventional (library Welch),100,0.95,0.42,0.17,0.35
+66,2 Paired single fit,25,1.0,0.52,0.04,0.68
+66,2 Paired single fit,50,1.0,0.44,0.16,0.48
+66,2 Paired single fit,100,0.98,0.43,0.12,0.41
+66,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.04,0.64
+66,"3 Stability-first, prep-agnostic",50,0.98,0.56,0.12,0.48
+66,"3 Stability-first, prep-agnostic",100,0.98,0.45,0.13,0.44
+66,"4 Stability-first, prep-aware",25,0.88,0.48,0.0,0.64
+66,"4 Stability-first, prep-aware",50,0.88,0.38,0.04,0.48
+66,"4 Stability-first, prep-aware",100,0.87,0.29,0.06,0.38
+67,1 Conventional (library Welch),25,0.92,0.56,0.2,0.12
+67,1 Conventional (library Welch),50,0.9,0.5,0.26,0.16
+67,1 Conventional (library Welch),100,0.93,0.53,0.34,0.18
+67,2 Paired single fit,25,0.84,0.32,0.24,0.36
+67,2 Paired single fit,50,0.88,0.48,0.3,0.38
+67,2 Paired single fit,100,0.88,0.47,0.27,0.37
+67,"3 Stability-first, prep-agnostic",25,0.92,0.28,0.2,0.36
+67,"3 Stability-first, prep-agnostic",50,0.88,0.36,0.22,0.38
+67,"3 Stability-first, prep-agnostic",100,0.85,0.39,0.2,0.33
+67,"4 Stability-first, prep-aware",25,0.64,0.36,0.04,0.4
+67,"4 Stability-first, prep-aware",50,0.68,0.28,0.1,0.32
+67,"4 Stability-first, prep-aware",100,0.7,0.28,0.12,0.23
+68,1 Conventional (library Welch),25,0.92,0.44,0.32,0.04
+68,1 Conventional (library Welch),50,0.96,0.4,0.44,0.1
+68,1 Conventional (library Welch),100,0.95,0.38,0.41,0.08
+68,2 Paired single fit,25,1.0,0.48,0.28,0.4
+68,2 Paired single fit,50,1.0,0.44,0.28,0.28
+68,2 Paired single fit,100,0.99,0.42,0.32,0.23
+68,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.28,0.28
+68,"3 Stability-first, prep-agnostic",50,0.98,0.5,0.22,0.28
+68,"3 Stability-first, prep-agnostic",100,0.93,0.41,0.28,0.25
+68,"4 Stability-first, prep-aware",25,0.88,0.4,0.0,0.32
+68,"4 Stability-first, prep-aware",50,0.8,0.28,0.06,0.22
+68,"4 Stability-first, prep-aware",100,0.83,0.29,0.12,0.32
+69,1 Conventional (library Welch),25,1.0,0.56,0.28,0.16
+69,1 Conventional (library Welch),50,1.0,0.6,0.22,0.2
+69,1 Conventional (library Welch),100,0.99,0.52,0.23,0.19
+69,2 Paired single fit,25,0.88,0.44,0.12,0.44
+69,2 Paired single fit,50,0.92,0.4,0.16,0.46
+69,2 Paired single fit,100,0.93,0.46,0.2,0.42
+69,"3 Stability-first, prep-agnostic",25,0.84,0.44,0.12,0.52
+69,"3 Stability-first, prep-agnostic",50,0.86,0.34,0.08,0.44
+69,"3 Stability-first, prep-agnostic",100,0.86,0.36,0.16,0.38
+69,"4 Stability-first, prep-aware",25,0.68,0.08,0.12,0.36
+69,"4 Stability-first, prep-aware",50,0.64,0.14,0.18,0.24
+69,"4 Stability-first, prep-aware",100,0.62,0.17,0.16,0.2
+70,1 Conventional (library Welch),25,0.96,0.44,0.08,0.08
+70,1 Conventional (library Welch),50,0.88,0.38,0.06,0.14
+70,1 Conventional (library Welch),100,0.91,0.33,0.07,0.19
+70,2 Paired single fit,25,1.0,0.56,0.16,0.44
+70,2 Paired single fit,50,0.96,0.48,0.14,0.4
+70,2 Paired single fit,100,0.93,0.47,0.1,0.39
+70,"3 Stability-first, prep-agnostic",25,1.0,0.6,0.12,0.48
+70,"3 Stability-first, prep-agnostic",50,0.94,0.5,0.14,0.42
+70,"3 Stability-first, prep-agnostic",100,0.93,0.46,0.13,0.35
+70,"4 Stability-first, prep-aware",25,0.8,0.28,0.04,0.48
+70,"4 Stability-first, prep-aware",50,0.72,0.28,0.02,0.3
+70,"4 Stability-first, prep-aware",100,0.61,0.19,0.05,0.24
+71,1 Conventional (library Welch),25,1.0,0.2,0.68,0.08
+71,1 Conventional (library Welch),50,0.94,0.2,0.6,0.04
+71,1 Conventional (library Welch),100,0.96,0.19,0.62,0.08
+71,2 Paired single fit,25,1.0,0.28,0.52,0.16
+71,2 Paired single fit,50,0.98,0.28,0.56,0.18
+71,2 Paired single fit,100,0.96,0.22,0.66,0.16
+71,"3 Stability-first, prep-agnostic",25,1.0,0.28,0.44,0.2
+71,"3 Stability-first, prep-agnostic",50,1.0,0.28,0.46,0.16
+71,"3 Stability-first, prep-agnostic",100,0.96,0.21,0.51,0.13
+71,"4 Stability-first, prep-aware",25,0.92,0.4,0.04,0.28
+71,"4 Stability-first, prep-aware",50,0.84,0.28,0.08,0.28
+71,"4 Stability-first, prep-aware",100,0.83,0.22,0.16,0.29
+72,1 Conventional (library Welch),25,0.96,0.52,0.04,0.04
+72,1 Conventional (library Welch),50,0.98,0.42,0.1,0.02
+72,1 Conventional (library Welch),100,0.98,0.38,0.12,0.04
+72,2 Paired single fit,25,0.96,0.52,0.12,0.44
+72,2 Paired single fit,50,0.96,0.42,0.06,0.38
+72,2 Paired single fit,100,0.95,0.34,0.07,0.29
+72,"3 Stability-first, prep-agnostic",25,0.96,0.64,0.12,0.64
+72,"3 Stability-first, prep-agnostic",50,0.98,0.5,0.08,0.46
+72,"3 Stability-first, prep-agnostic",100,0.97,0.42,0.08,0.37
+72,"4 Stability-first, prep-aware",25,0.8,0.28,0.2,0.52
+72,"4 Stability-first, prep-aware",50,0.76,0.26,0.18,0.38
+72,"4 Stability-first, prep-aware",100,0.74,0.24,0.13,0.38
+73,1 Conventional (library Welch),25,0.76,0.2,0.0,0.16
+73,1 Conventional (library Welch),50,0.8,0.32,0.02,0.14
+73,1 Conventional (library Welch),100,0.8,0.33,0.03,0.18
+73,2 Paired single fit,25,0.76,0.52,0.12,0.4
+73,2 Paired single fit,50,0.84,0.46,0.1,0.46
+73,2 Paired single fit,100,0.85,0.5,0.07,0.38
+73,"3 Stability-first, prep-agnostic",25,0.72,0.4,0.04,0.4
+73,"3 Stability-first, prep-agnostic",50,0.58,0.3,0.06,0.38
+73,"3 Stability-first, prep-agnostic",100,0.65,0.32,0.04,0.36
+73,"4 Stability-first, prep-aware",25,0.6,0.28,0.12,0.36
+73,"4 Stability-first, prep-aware",50,0.58,0.26,0.08,0.34
+73,"4 Stability-first, prep-aware",100,0.6,0.27,0.04,0.37
+74,1 Conventional (library Welch),25,1.0,0.72,0.2,0.12
+74,1 Conventional (library Welch),50,0.98,0.76,0.16,0.26
+74,1 Conventional (library Welch),100,0.93,0.65,0.12,0.22
+74,2 Paired single fit,25,0.92,0.56,0.04,0.56
+74,2 Paired single fit,50,0.92,0.56,0.06,0.64
+74,2 Paired single fit,100,0.93,0.49,0.12,0.54
+74,"3 Stability-first, prep-agnostic",25,0.92,0.56,0.08,0.48
+74,"3 Stability-first, prep-agnostic",50,0.9,0.46,0.04,0.5
+74,"3 Stability-first, prep-agnostic",100,0.88,0.46,0.09,0.46
+74,"4 Stability-first, prep-aware",25,0.76,0.12,0.0,0.28
+74,"4 Stability-first, prep-aware",50,0.64,0.16,0.0,0.24
+74,"4 Stability-first, prep-aware",100,0.56,0.15,0.0,0.23
+75,1 Conventional (library Welch),25,0.96,0.48,0.24,0.0
+75,1 Conventional (library Welch),50,0.98,0.46,0.34,0.02
+75,1 Conventional (library Welch),100,0.93,0.41,0.37,0.06
+75,2 Paired single fit,25,0.88,0.32,0.12,0.2
+75,2 Paired single fit,50,0.92,0.32,0.24,0.2
+75,2 Paired single fit,100,0.87,0.24,0.26,0.19
+75,"3 Stability-first, prep-agnostic",25,0.88,0.4,0.12,0.2
+75,"3 Stability-first, prep-agnostic",50,0.86,0.32,0.2,0.14
+75,"3 Stability-first, prep-agnostic",100,0.86,0.28,0.24,0.12
+75,"4 Stability-first, prep-aware",25,0.72,0.28,0.2,0.2
+75,"4 Stability-first, prep-aware",50,0.82,0.2,0.18,0.18
+75,"4 Stability-first, prep-aware",100,0.85,0.28,0.2,0.24
+76,1 Conventional (library Welch),25,1.0,0.6,0.28,0.0
+76,1 Conventional (library Welch),50,0.98,0.5,0.24,0.08
+76,1 Conventional (library Welch),100,0.94,0.49,0.27,0.07
+76,2 Paired single fit,25,0.96,0.6,0.28,0.32
+76,2 Paired single fit,50,0.92,0.46,0.22,0.34
+76,2 Paired single fit,100,0.89,0.45,0.2,0.39
+76,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.24,0.44
+76,"3 Stability-first, prep-agnostic",50,0.96,0.48,0.22,0.34
+76,"3 Stability-first, prep-agnostic",100,0.9,0.42,0.2,0.36
+76,"4 Stability-first, prep-aware",25,0.72,0.28,0.04,0.2
+76,"4 Stability-first, prep-aware",50,0.68,0.28,0.04,0.3
+76,"4 Stability-first, prep-aware",100,0.69,0.22,0.09,0.3
+77,1 Conventional (library Welch),25,1.0,0.64,0.16,0.08
+77,1 Conventional (library Welch),50,0.98,0.64,0.12,0.18
+77,1 Conventional (library Welch),100,0.97,0.61,0.15,0.17
+77,2 Paired single fit,25,1.0,0.56,0.12,0.64
+77,2 Paired single fit,50,0.98,0.56,0.08,0.58
+77,2 Paired single fit,100,0.96,0.46,0.1,0.48
+77,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.12,0.56
+77,"3 Stability-first, prep-agnostic",50,0.94,0.52,0.08,0.54
+77,"3 Stability-first, prep-agnostic",100,0.93,0.43,0.09,0.47
+77,"4 Stability-first, prep-aware",25,0.8,0.24,0.08,0.52
+77,"4 Stability-first, prep-aware",50,0.78,0.26,0.06,0.5
+77,"4 Stability-first, prep-aware",100,0.7,0.22,0.04,0.38
+78,1 Conventional (library Welch),25,1.0,0.72,0.08,0.28
+78,1 Conventional (library Welch),50,0.98,0.68,0.12,0.3
+78,1 Conventional (library Welch),100,0.98,0.6,0.12,0.28
+78,2 Paired single fit,25,1.0,0.64,0.2,0.48
+78,2 Paired single fit,50,1.0,0.58,0.16,0.46
+78,2 Paired single fit,100,0.99,0.56,0.15,0.47
+78,"3 Stability-first, prep-agnostic",25,1.0,0.64,0.16,0.48
+78,"3 Stability-first, prep-agnostic",50,0.98,0.56,0.18,0.52
+78,"3 Stability-first, prep-agnostic",100,0.98,0.5,0.12,0.49
+78,"4 Stability-first, prep-aware",25,0.84,0.32,0.16,0.2
+78,"4 Stability-first, prep-aware",50,0.9,0.28,0.2,0.3
+78,"4 Stability-first, prep-aware",100,0.85,0.23,0.17,0.39
+79,1 Conventional (library Welch),25,1.0,0.48,0.12,0.12
+79,1 Conventional (library Welch),50,0.96,0.52,0.14,0.14
+79,1 Conventional (library Welch),100,0.97,0.53,0.22,0.16
+79,2 Paired single fit,25,0.96,0.56,0.08,0.28
+79,2 Paired single fit,50,0.94,0.44,0.14,0.26
+79,2 Paired single fit,100,0.9,0.41,0.22,0.33
+79,"3 Stability-first, prep-agnostic",25,0.92,0.44,0.12,0.36
+79,"3 Stability-first, prep-agnostic",50,0.9,0.52,0.08,0.4
+79,"3 Stability-first, prep-agnostic",100,0.87,0.39,0.07,0.34
+79,"4 Stability-first, prep-aware",25,0.64,0.16,0.12,0.28
+79,"4 Stability-first, prep-aware",50,0.66,0.16,0.18,0.24
+79,"4 Stability-first, prep-aware",100,0.69,0.15,0.2,0.22
+80,1 Conventional (library Welch),25,0.96,0.68,0.08,0.12
+80,1 Conventional (library Welch),50,0.96,0.72,0.18,0.08
+80,1 Conventional (library Welch),100,0.96,0.63,0.2,0.12
+80,2 Paired single fit,25,1.0,0.56,0.08,0.48
+80,2 Paired single fit,50,0.96,0.56,0.12,0.42
+80,2 Paired single fit,100,0.95,0.51,0.22,0.32
+80,"3 Stability-first, prep-agnostic",25,0.96,0.56,0.12,0.52
+80,"3 Stability-first, prep-agnostic",50,0.96,0.58,0.1,0.48
+80,"3 Stability-first, prep-agnostic",100,0.94,0.5,0.1,0.4
+80,"4 Stability-first, prep-aware",25,0.56,0.2,0.0,0.28
+80,"4 Stability-first, prep-aware",50,0.6,0.18,0.04,0.22
+80,"4 Stability-first, prep-aware",100,0.56,0.14,0.08,0.24
+81,1 Conventional (library Welch),25,0.96,0.36,0.32,0.12
+81,1 Conventional (library Welch),50,0.98,0.32,0.26,0.22
+81,1 Conventional (library Welch),100,0.96,0.32,0.23,0.24
+81,2 Paired single fit,25,1.0,0.28,0.12,0.84
+81,2 Paired single fit,50,0.98,0.36,0.18,0.78
+81,2 Paired single fit,100,0.95,0.37,0.17,0.6
+81,"3 Stability-first, prep-agnostic",25,1.0,0.24,0.16,0.8
+81,"3 Stability-first, prep-agnostic",50,0.98,0.4,0.2,0.7
+81,"3 Stability-first, prep-agnostic",100,0.93,0.34,0.21,0.59
+81,"4 Stability-first, prep-aware",25,0.92,0.24,0.12,0.6
+81,"4 Stability-first, prep-aware",50,0.9,0.2,0.22,0.48
+81,"4 Stability-first, prep-aware",100,0.83,0.18,0.19,0.44
+82,1 Conventional (library Welch),25,0.96,0.56,0.28,0.16
+82,1 Conventional (library Welch),50,0.96,0.58,0.22,0.18
+82,1 Conventional (library Welch),100,0.96,0.54,0.24,0.13
+82,2 Paired single fit,25,0.92,0.64,0.12,0.52
+82,2 Paired single fit,50,0.88,0.58,0.1,0.44
+82,2 Paired single fit,100,0.9,0.55,0.2,0.41
+82,"3 Stability-first, prep-agnostic",25,0.92,0.6,0.0,0.76
+82,"3 Stability-first, prep-agnostic",50,0.94,0.6,0.1,0.62
+82,"3 Stability-first, prep-agnostic",100,0.94,0.5,0.19,0.43
+82,"4 Stability-first, prep-aware",25,0.44,0.16,0.0,0.32
+82,"4 Stability-first, prep-aware",50,0.52,0.22,0.04,0.32
+82,"4 Stability-first, prep-aware",100,0.55,0.23,0.04,0.31
+83,1 Conventional (library Welch),25,0.96,0.36,0.6,0.04
+83,1 Conventional (library Welch),50,0.94,0.24,0.58,0.06
+83,1 Conventional (library Welch),100,0.93,0.26,0.6,0.09
+83,2 Paired single fit,25,0.96,0.32,0.56,0.2
+83,2 Paired single fit,50,0.98,0.32,0.5,0.24
+83,2 Paired single fit,100,0.93,0.28,0.52,0.24
+83,"3 Stability-first, prep-agnostic",25,0.92,0.32,0.36,0.16
+83,"3 Stability-first, prep-agnostic",50,0.92,0.28,0.44,0.24
+83,"3 Stability-first, prep-agnostic",100,0.94,0.29,0.44,0.22
+83,"4 Stability-first, prep-aware",25,0.76,0.48,0.08,0.64
+83,"4 Stability-first, prep-aware",50,0.8,0.36,0.08,0.5
+83,"4 Stability-first, prep-aware",100,0.75,0.23,0.17,0.41
+84,1 Conventional (library Welch),25,1.0,0.44,0.08,0.08
+84,1 Conventional (library Welch),50,0.98,0.48,0.16,0.16
+84,1 Conventional (library Welch),100,0.95,0.46,0.2,0.21
+84,2 Paired single fit,25,1.0,0.48,0.24,0.48
+84,2 Paired single fit,50,1.0,0.44,0.18,0.36
+84,2 Paired single fit,100,0.92,0.43,0.23,0.31
+84,"3 Stability-first, prep-agnostic",25,0.92,0.4,0.2,0.44
+84,"3 Stability-first, prep-agnostic",50,0.92,0.36,0.18,0.38
+84,"3 Stability-first, prep-agnostic",100,0.9,0.36,0.18,0.3
+84,"4 Stability-first, prep-aware",25,0.84,0.2,0.2,0.36
+84,"4 Stability-first, prep-aware",50,0.88,0.28,0.14,0.34
+84,"4 Stability-first, prep-aware",100,0.83,0.25,0.1,0.33
+85,1 Conventional (library Welch),25,1.0,0.4,0.0,0.44
+85,1 Conventional (library Welch),50,0.96,0.52,0.08,0.4
+85,1 Conventional (library Welch),100,0.95,0.48,0.09,0.36
+85,2 Paired single fit,25,0.96,0.64,0.16,0.6
+85,2 Paired single fit,50,0.96,0.64,0.12,0.52
+85,2 Paired single fit,100,0.92,0.5,0.12,0.51
+85,"3 Stability-first, prep-agnostic",25,0.88,0.64,0.24,0.56
+85,"3 Stability-first, prep-agnostic",50,0.92,0.62,0.12,0.52
+85,"3 Stability-first, prep-agnostic",100,0.9,0.46,0.07,0.43
+85,"4 Stability-first, prep-aware",25,0.56,0.28,0.08,0.4
+85,"4 Stability-first, prep-aware",50,0.54,0.22,0.08,0.32
+85,"4 Stability-first, prep-aware",100,0.47,0.15,0.06,0.23
+86,1 Conventional (library Welch),25,1.0,0.44,0.2,0.04
+86,1 Conventional (library Welch),50,1.0,0.58,0.18,0.08
+86,1 Conventional (library Welch),100,0.99,0.56,0.25,0.05
+86,2 Paired single fit,25,1.0,0.52,0.16,0.32
+86,2 Paired single fit,50,0.96,0.42,0.14,0.26
+86,2 Paired single fit,100,0.97,0.39,0.2,0.24
+86,"3 Stability-first, prep-agnostic",25,1.0,0.64,0.12,0.4
+86,"3 Stability-first, prep-agnostic",50,0.96,0.42,0.18,0.28
+86,"3 Stability-first, prep-agnostic",100,0.96,0.36,0.16,0.29
+86,"4 Stability-first, prep-aware",25,0.8,0.28,0.08,0.4
+86,"4 Stability-first, prep-aware",50,0.88,0.3,0.1,0.38
+86,"4 Stability-first, prep-aware",100,0.88,0.3,0.09,0.34
+87,1 Conventional (library Welch),25,0.96,0.28,0.72,0.08
+87,1 Conventional (library Welch),50,0.9,0.28,0.76,0.08
+87,1 Conventional (library Welch),100,0.93,0.24,0.69,0.05
+87,2 Paired single fit,25,0.96,0.2,0.52,0.24
+87,2 Paired single fit,50,0.94,0.3,0.5,0.24
+87,2 Paired single fit,100,0.92,0.29,0.58,0.25
+87,"3 Stability-first, prep-agnostic",25,0.92,0.16,0.84,0.04
+87,"3 Stability-first, prep-agnostic",50,0.9,0.12,0.82,0.08
+87,"3 Stability-first, prep-agnostic",100,0.91,0.17,0.76,0.15
+87,"4 Stability-first, prep-aware",25,0.64,0.04,0.36,0.04
+87,"4 Stability-first, prep-aware",50,0.56,0.02,0.34,0.1
+87,"4 Stability-first, prep-aware",100,0.56,0.04,0.39,0.12
+88,1 Conventional (library Welch),25,1.0,0.36,0.04,0.08
+88,1 Conventional (library Welch),50,1.0,0.46,0.16,0.16
+88,1 Conventional (library Welch),100,0.98,0.43,0.19,0.16
+88,2 Paired single fit,25,1.0,0.52,0.2,0.6
+88,2 Paired single fit,50,1.0,0.5,0.14,0.54
+88,2 Paired single fit,100,0.99,0.47,0.21,0.48
+88,"3 Stability-first, prep-agnostic",25,1.0,0.56,0.24,0.56
+88,"3 Stability-first, prep-agnostic",50,0.96,0.5,0.16,0.48
+88,"3 Stability-first, prep-agnostic",100,0.97,0.46,0.16,0.48
+88,"4 Stability-first, prep-aware",25,0.76,0.2,0.32,0.48
+88,"4 Stability-first, prep-aware",50,0.86,0.22,0.28,0.52
+88,"4 Stability-first, prep-aware",100,0.82,0.27,0.33,0.52
+89,1 Conventional (library Welch),25,1.0,0.44,0.04,0.16
+89,1 Conventional (library Welch),50,0.98,0.46,0.1,0.2
+89,1 Conventional (library Welch),100,0.93,0.44,0.09,0.17
+89,2 Paired single fit,25,0.96,0.56,0.12,0.56
+89,2 Paired single fit,50,0.98,0.48,0.2,0.44
+89,2 Paired single fit,100,0.96,0.44,0.16,0.4
+89,"3 Stability-first, prep-agnostic",25,0.92,0.52,0.08,0.56
+89,"3 Stability-first, prep-agnostic",50,0.94,0.56,0.12,0.48
+89,"3 Stability-first, prep-agnostic",100,0.95,0.43,0.16,0.4
+89,"4 Stability-first, prep-aware",25,0.68,0.28,0.12,0.48
+89,"4 Stability-first, prep-aware",50,0.74,0.18,0.06,0.4
+89,"4 Stability-first, prep-aware",100,0.72,0.16,0.08,0.31
+90,1 Conventional (library Welch),25,0.92,0.44,0.0,0.32
+90,1 Conventional (library Welch),50,0.96,0.48,0.04,0.28
+90,1 Conventional (library Welch),100,0.95,0.42,0.1,0.28
+90,2 Paired single fit,25,0.96,0.64,0.2,0.48
+90,2 Paired single fit,50,0.98,0.6,0.16,0.5
+90,2 Paired single fit,100,0.98,0.51,0.17,0.5
+90,"3 Stability-first, prep-agnostic",25,0.88,0.56,0.16,0.48
+90,"3 Stability-first, prep-agnostic",50,0.94,0.52,0.2,0.52
+90,"3 Stability-first, prep-agnostic",100,0.94,0.49,0.14,0.47
+90,"4 Stability-first, prep-aware",25,0.96,0.48,0.08,0.6
+90,"4 Stability-first, prep-aware",50,0.9,0.38,0.08,0.56
+90,"4 Stability-first, prep-aware",100,0.85,0.31,0.07,0.48
+91,1 Conventional (library Welch),25,0.92,0.72,0.0,0.08
+91,1 Conventional (library Welch),50,0.94,0.6,0.08,0.1
+91,1 Conventional (library Welch),100,0.93,0.54,0.08,0.14
+91,2 Paired single fit,25,1.0,0.64,0.04,0.36
+91,2 Paired single fit,50,0.96,0.54,0.02,0.34
+91,2 Paired single fit,100,0.94,0.45,0.09,0.3
+91,"3 Stability-first, prep-agnostic",25,0.96,0.56,0.04,0.28
+91,"3 Stability-first, prep-agnostic",50,0.92,0.42,0.02,0.3
+91,"3 Stability-first, prep-agnostic",100,0.95,0.45,0.04,0.29
+91,"4 Stability-first, prep-aware",25,0.72,0.36,0.0,0.44
+91,"4 Stability-first, prep-aware",50,0.82,0.4,0.0,0.42
+91,"4 Stability-first, prep-aware",100,0.78,0.31,0.02,0.32
+92,1 Conventional (library Welch),25,0.84,0.44,0.24,0.08
+92,1 Conventional (library Welch),50,0.9,0.32,0.28,0.06
+92,1 Conventional (library Welch),100,0.93,0.28,0.3,0.08
+92,2 Paired single fit,25,0.96,0.36,0.2,0.24
+92,2 Paired single fit,50,0.96,0.34,0.22,0.24
+92,2 Paired single fit,100,0.95,0.3,0.22,0.26
+92,"3 Stability-first, prep-agnostic",25,0.96,0.44,0.04,0.32
+92,"3 Stability-first, prep-agnostic",50,0.96,0.36,0.22,0.2
+92,"3 Stability-first, prep-agnostic",100,0.95,0.32,0.22,0.24
+92,"4 Stability-first, prep-aware",25,0.76,0.16,0.12,0.2
+92,"4 Stability-first, prep-aware",50,0.72,0.2,0.14,0.22
+92,"4 Stability-first, prep-aware",100,0.68,0.15,0.11,0.23
+93,1 Conventional (library Welch),25,0.92,0.28,0.84,0.04
+93,1 Conventional (library Welch),50,0.92,0.2,0.86,0.02
+93,1 Conventional (library Welch),100,0.9,0.18,0.79,0.01
+93,2 Paired single fit,25,0.84,0.2,0.64,0.08
+93,2 Paired single fit,50,0.84,0.22,0.6,0.14
+93,2 Paired single fit,100,0.84,0.23,0.61,0.12
+93,"3 Stability-first, prep-agnostic",25,0.88,0.16,0.56,0.24
+93,"3 Stability-first, prep-agnostic",50,0.8,0.16,0.64,0.18
+93,"3 Stability-first, prep-agnostic",100,0.83,0.21,0.54,0.21
+93,"4 Stability-first, prep-aware",25,0.68,0.12,0.44,0.16
+93,"4 Stability-first, prep-aware",50,0.78,0.12,0.34,0.16
+93,"4 Stability-first, prep-aware",100,0.72,0.14,0.33,0.17
+94,1 Conventional (library Welch),25,0.96,0.68,0.12,0.16
+94,1 Conventional (library Welch),50,0.98,0.64,0.26,0.16
+94,1 Conventional (library Welch),100,0.95,0.58,0.22,0.21
+94,2 Paired single fit,25,1.0,0.76,0.16,0.52
+94,2 Paired single fit,50,1.0,0.62,0.14,0.52
+94,2 Paired single fit,100,0.97,0.61,0.22,0.47
+94,"3 Stability-first, prep-agnostic",25,1.0,0.64,0.12,0.32
+94,"3 Stability-first, prep-agnostic",50,0.98,0.58,0.16,0.36
+94,"3 Stability-first, prep-agnostic",100,0.94,0.47,0.15,0.35
+94,"4 Stability-first, prep-aware",25,0.68,0.36,0.08,0.4
+94,"4 Stability-first, prep-aware",50,0.74,0.32,0.06,0.4
+94,"4 Stability-first, prep-aware",100,0.7,0.29,0.04,0.31
+95,1 Conventional (library Welch),25,1.0,0.52,0.24,0.44
+95,1 Conventional (library Welch),50,1.0,0.36,0.38,0.36
+95,1 Conventional (library Welch),100,0.98,0.37,0.37,0.3
+95,2 Paired single fit,25,1.0,0.64,0.2,0.56
+95,2 Paired single fit,50,0.98,0.52,0.28,0.48
+95,2 Paired single fit,100,0.97,0.4,0.3,0.4
+95,"3 Stability-first, prep-agnostic",25,1.0,0.56,0.2,0.48
+95,"3 Stability-first, prep-agnostic",50,1.0,0.56,0.22,0.5
+95,"3 Stability-first, prep-agnostic",100,0.95,0.4,0.27,0.41
+95,"4 Stability-first, prep-aware",25,0.84,0.36,0.04,0.44
+95,"4 Stability-first, prep-aware",50,0.7,0.34,0.06,0.42
+95,"4 Stability-first, prep-aware",100,0.71,0.2,0.09,0.33
+96,1 Conventional (library Welch),25,1.0,0.56,0.6,0.0
+96,1 Conventional (library Welch),50,0.98,0.56,0.52,0.02
+96,1 Conventional (library Welch),100,0.98,0.5,0.56,0.07
+96,2 Paired single fit,25,1.0,0.6,0.2,0.72
+96,2 Paired single fit,50,1.0,0.5,0.32,0.62
+96,2 Paired single fit,100,0.95,0.37,0.35,0.47
+96,"3 Stability-first, prep-agnostic",25,1.0,0.4,0.16,0.72
+96,"3 Stability-first, prep-agnostic",50,0.98,0.48,0.24,0.68
+96,"3 Stability-first, prep-agnostic",100,0.92,0.42,0.33,0.57
+96,"4 Stability-first, prep-aware",25,0.64,0.2,0.16,0.24
+96,"4 Stability-first, prep-aware",50,0.76,0.18,0.12,0.28
+96,"4 Stability-first, prep-aware",100,0.72,0.2,0.14,0.28
+97,1 Conventional (library Welch),25,0.96,0.44,0.2,0.2
+97,1 Conventional (library Welch),50,0.94,0.44,0.12,0.28
+97,1 Conventional (library Welch),100,0.94,0.4,0.17,0.29
+97,2 Paired single fit,25,0.96,0.56,0.2,0.52
+97,2 Paired single fit,50,0.98,0.58,0.2,0.54
+97,2 Paired single fit,100,0.94,0.51,0.19,0.47
+97,"3 Stability-first, prep-agnostic",25,0.96,0.64,0.2,0.52
+97,"3 Stability-first, prep-agnostic",50,0.96,0.52,0.24,0.5
+97,"3 Stability-first, prep-agnostic",100,0.94,0.49,0.16,0.48
+97,"4 Stability-first, prep-aware",25,0.56,0.28,0.04,0.36
+97,"4 Stability-first, prep-aware",50,0.58,0.24,0.06,0.3
+97,"4 Stability-first, prep-aware",100,0.59,0.2,0.05,0.25
+98,1 Conventional (library Welch),25,0.96,0.6,0.08,0.08
+98,1 Conventional (library Welch),50,0.9,0.46,0.14,0.14
+98,1 Conventional (library Welch),100,0.92,0.44,0.16,0.15
+98,2 Paired single fit,25,1.0,0.6,0.28,0.4
+98,2 Paired single fit,50,0.98,0.58,0.28,0.36
+98,2 Paired single fit,100,0.97,0.57,0.26,0.34
+98,"3 Stability-first, prep-agnostic",25,0.92,0.6,0.28,0.32
+98,"3 Stability-first, prep-agnostic",50,0.96,0.52,0.26,0.34
+98,"3 Stability-first, prep-agnostic",100,0.89,0.48,0.18,0.37
+98,"4 Stability-first, prep-aware",25,0.8,0.36,0.2,0.48
+98,"4 Stability-first, prep-aware",50,0.78,0.34,0.22,0.3
+98,"4 Stability-first, prep-aware",100,0.73,0.28,0.16,0.32
+99,1 Conventional (library Welch),25,0.92,0.28,0.28,0.08
+99,1 Conventional (library Welch),50,0.92,0.24,0.3,0.08
+99,1 Conventional (library Welch),100,0.91,0.26,0.37,0.13
+99,2 Paired single fit,25,1.0,0.44,0.24,0.28
+99,2 Paired single fit,50,0.98,0.38,0.3,0.2
+99,2 Paired single fit,100,0.98,0.37,0.37,0.23
+99,"3 Stability-first, prep-agnostic",25,1.0,0.36,0.24,0.2
+99,"3 Stability-first, prep-agnostic",50,1.0,0.34,0.22,0.2
+99,"3 Stability-first, prep-agnostic",100,0.97,0.34,0.31,0.19
+99,"4 Stability-first, prep-aware",25,0.76,0.4,0.0,0.28
+99,"4 Stability-first, prep-aware",50,0.8,0.28,0.04,0.28
+99,"4 Stability-first, prep-aware",100,0.75,0.19,0.1,0.32
+100,1 Conventional (library Welch),25,0.96,0.72,0.16,0.2
+100,1 Conventional (library Welch),50,0.98,0.62,0.14,0.22
+100,1 Conventional (library Welch),100,0.96,0.61,0.14,0.2
+100,2 Paired single fit,25,0.76,0.64,0.08,0.4
+100,2 Paired single fit,50,0.8,0.58,0.1,0.38
+100,2 Paired single fit,100,0.84,0.55,0.11,0.37
+100,"3 Stability-first, prep-agnostic",25,0.76,0.44,0.08,0.44
+100,"3 Stability-first, prep-agnostic",50,0.7,0.32,0.08,0.4
+100,"3 Stability-first, prep-agnostic",100,0.7,0.36,0.07,0.34
+100,"4 Stability-first, prep-aware",25,0.76,0.56,0.04,0.32
+100,"4 Stability-first, prep-aware",50,0.64,0.42,0.08,0.36
+100,"4 Stability-first, prep-aware",100,0.7,0.36,0.06,0.37
+101,1 Conventional (library Welch),25,1.0,0.6,0.44,0.08
+101,1 Conventional (library Welch),50,0.98,0.64,0.44,0.04
+101,1 Conventional (library Welch),100,0.98,0.51,0.5,0.04
+101,2 Paired single fit,25,0.96,0.52,0.28,0.32
+101,2 Paired single fit,50,0.98,0.54,0.28,0.34
+101,2 Paired single fit,100,0.97,0.45,0.34,0.3
+101,"3 Stability-first, prep-agnostic",25,0.92,0.52,0.16,0.36
+101,"3 Stability-first, prep-agnostic",50,0.92,0.56,0.16,0.26
+101,"3 Stability-first, prep-agnostic",100,0.9,0.39,0.2,0.21
+101,"4 Stability-first, prep-aware",25,0.8,0.36,0.04,0.32
+101,"4 Stability-first, prep-aware",50,0.8,0.38,0.1,0.26
+101,"4 Stability-first, prep-aware",100,0.79,0.35,0.1,0.26
+102,1 Conventional (library Welch),25,0.92,0.6,0.12,0.12
+102,1 Conventional (library Welch),50,0.96,0.6,0.2,0.14
+102,1 Conventional (library Welch),100,0.98,0.54,0.26,0.14
+102,2 Paired single fit,25,0.92,0.48,0.16,0.28
+102,2 Paired single fit,50,0.94,0.42,0.26,0.28
+102,2 Paired single fit,100,0.91,0.44,0.29,0.28
+102,"3 Stability-first, prep-agnostic",25,0.92,0.44,0.04,0.32
+102,"3 Stability-first, prep-agnostic",50,0.92,0.44,0.18,0.34
+102,"3 Stability-first, prep-agnostic",100,0.9,0.43,0.25,0.3
+102,"4 Stability-first, prep-aware",25,0.64,0.28,0.04,0.28
+102,"4 Stability-first, prep-aware",50,0.7,0.24,0.04,0.26
+102,"4 Stability-first, prep-aware",100,0.72,0.22,0.09,0.23
+103,1 Conventional (library Welch),25,0.96,0.16,0.52,0.0
+103,1 Conventional (library Welch),50,0.96,0.1,0.54,0.0
+103,1 Conventional (library Welch),100,0.95,0.1,0.57,0.03
+103,2 Paired single fit,25,0.96,0.2,0.4,0.08
+103,2 Paired single fit,50,0.98,0.26,0.4,0.14
+103,2 Paired single fit,100,0.96,0.2,0.51,0.11
+103,"3 Stability-first, prep-agnostic",25,0.96,0.16,0.52,0.12
+103,"3 Stability-first, prep-agnostic",50,0.96,0.16,0.52,0.12
+103,"3 Stability-first, prep-agnostic",100,0.95,0.16,0.57,0.14
+103,"4 Stability-first, prep-aware",25,0.92,0.48,0.12,0.48
+103,"4 Stability-first, prep-aware",50,0.96,0.34,0.1,0.42
+103,"4 Stability-first, prep-aware",100,0.91,0.28,0.09,0.35
+104,1 Conventional (library Welch),25,0.92,0.68,0.16,0.0
+104,1 Conventional (library Welch),50,0.96,0.7,0.14,0.1
+104,1 Conventional (library Welch),100,0.96,0.55,0.14,0.12
+104,2 Paired single fit,25,0.92,0.56,0.04,0.4
+104,2 Paired single fit,50,0.9,0.54,0.12,0.4
+104,2 Paired single fit,100,0.94,0.52,0.11,0.37
+104,"3 Stability-first, prep-agnostic",25,0.92,0.52,0.08,0.44
+104,"3 Stability-first, prep-agnostic",50,0.9,0.58,0.08,0.48
+104,"3 Stability-first, prep-agnostic",100,0.92,0.49,0.07,0.42
+104,"4 Stability-first, prep-aware",25,0.76,0.36,0.04,0.36
+104,"4 Stability-first, prep-aware",50,0.78,0.4,0.02,0.42
+104,"4 Stability-first, prep-aware",100,0.75,0.34,0.03,0.42
+105,1 Conventional (library Welch),25,1.0,0.56,0.32,0.12
+105,1 Conventional (library Welch),50,0.96,0.5,0.44,0.08
+105,1 Conventional (library Welch),100,0.97,0.42,0.49,0.07
+105,2 Paired single fit,25,0.88,0.32,0.28,0.32
+105,2 Paired single fit,50,0.92,0.34,0.24,0.26
+105,2 Paired single fit,100,0.93,0.24,0.43,0.26
+105,"3 Stability-first, prep-agnostic",25,0.88,0.32,0.24,0.32
+105,"3 Stability-first, prep-agnostic",50,0.88,0.28,0.3,0.26
+105,"3 Stability-first, prep-agnostic",100,0.91,0.28,0.27,0.26
+105,"4 Stability-first, prep-aware",25,0.72,0.16,0.16,0.16
+105,"4 Stability-first, prep-aware",50,0.78,0.14,0.16,0.24
+105,"4 Stability-first, prep-aware",100,0.76,0.12,0.16,0.26
+106,1 Conventional (library Welch),25,1.0,0.44,0.8,0.08
+106,1 Conventional (library Welch),50,1.0,0.48,0.72,0.08
+106,1 Conventional (library Welch),100,0.99,0.5,0.73,0.11
+106,2 Paired single fit,25,1.0,0.64,0.52,0.28
+106,2 Paired single fit,50,0.94,0.5,0.54,0.26
+106,2 Paired single fit,100,0.95,0.47,0.56,0.26
+106,"3 Stability-first, prep-agnostic",25,1.0,0.56,0.48,0.2
+106,"3 Stability-first, prep-agnostic",50,0.92,0.42,0.44,0.28
+106,"3 Stability-first, prep-agnostic",100,0.92,0.37,0.45,0.3
+106,"4 Stability-first, prep-aware",25,0.72,0.36,0.08,0.24
+106,"4 Stability-first, prep-aware",50,0.76,0.3,0.06,0.26
+106,"4 Stability-first, prep-aware",100,0.78,0.26,0.13,0.27
+107,1 Conventional (library Welch),25,1.0,0.6,0.16,0.04
+107,1 Conventional (library Welch),50,0.98,0.54,0.2,0.14
+107,1 Conventional (library Welch),100,0.96,0.42,0.24,0.13
+107,2 Paired single fit,25,0.96,0.52,0.24,0.16
+107,2 Paired single fit,50,0.96,0.52,0.24,0.22
+107,2 Paired single fit,100,0.96,0.47,0.24,0.27
+107,"3 Stability-first, prep-agnostic",25,0.96,0.52,0.24,0.12
+107,"3 Stability-first, prep-agnostic",50,0.94,0.54,0.22,0.26
+107,"3 Stability-first, prep-agnostic",100,0.95,0.49,0.19,0.27
+107,"4 Stability-first, prep-aware",25,0.96,0.32,0.04,0.24
+107,"4 Stability-first, prep-aware",50,0.92,0.32,0.06,0.24
+107,"4 Stability-first, prep-aware",100,0.88,0.32,0.11,0.21
+108,1 Conventional (library Welch),25,0.92,0.36,0.6,0.0
+108,1 Conventional (library Welch),50,0.96,0.34,0.64,0.02
+108,1 Conventional (library Welch),100,0.98,0.32,0.67,0.04
+108,2 Paired single fit,25,0.96,0.44,0.44,0.4
+108,2 Paired single fit,50,0.98,0.3,0.52,0.26
+108,2 Paired single fit,100,0.97,0.28,0.6,0.2
+108,"3 Stability-first, prep-agnostic",25,0.88,0.44,0.48,0.28
+108,"3 Stability-first, prep-agnostic",50,0.9,0.36,0.52,0.22
+108,"3 Stability-first, prep-agnostic",100,0.92,0.29,0.58,0.2
+108,"4 Stability-first, prep-aware",25,0.8,0.16,0.2,0.28
+108,"4 Stability-first, prep-aware",50,0.82,0.18,0.24,0.34
+108,"4 Stability-first, prep-aware",100,0.75,0.17,0.22,0.28
+109,1 Conventional (library Welch),25,1.0,0.56,0.24,0.04
+109,1 Conventional (library Welch),50,1.0,0.44,0.22,0.06
+109,1 Conventional (library Welch),100,0.96,0.35,0.34,0.11
+109,2 Paired single fit,25,0.92,0.52,0.32,0.32
+109,2 Paired single fit,50,0.96,0.5,0.32,0.24
+109,2 Paired single fit,100,0.97,0.49,0.34,0.35
+109,"3 Stability-first, prep-agnostic",25,0.96,0.56,0.24,0.32
+109,"3 Stability-first, prep-agnostic",50,0.96,0.56,0.24,0.24
+109,"3 Stability-first, prep-agnostic",100,0.97,0.48,0.23,0.27
+109,"4 Stability-first, prep-aware",25,0.76,0.24,0.08,0.24
+109,"4 Stability-first, prep-aware",50,0.74,0.2,0.2,0.14
+109,"4 Stability-first, prep-aware",100,0.77,0.19,0.18,0.26
+110,1 Conventional (library Welch),25,1.0,0.28,0.08,0.28
+110,1 Conventional (library Welch),50,1.0,0.34,0.08,0.24
+110,1 Conventional (library Welch),100,1.0,0.34,0.06,0.21
+110,2 Paired single fit,25,1.0,0.48,0.12,0.76
+110,2 Paired single fit,50,0.98,0.36,0.08,0.58
+110,2 Paired single fit,100,0.98,0.37,0.1,0.52
+110,"3 Stability-first, prep-agnostic",25,1.0,0.48,0.12,0.76
+110,"3 Stability-first, prep-agnostic",50,0.96,0.42,0.1,0.64
+110,"3 Stability-first, prep-agnostic",100,0.98,0.33,0.1,0.48
+110,"4 Stability-first, prep-aware",25,0.84,0.32,0.04,0.6
+110,"4 Stability-first, prep-aware",50,0.86,0.18,0.04,0.7
+110,"4 Stability-first, prep-aware",100,0.82,0.21,0.12,0.54
+111,1 Conventional (library Welch),25,0.92,0.6,0.2,0.04
+111,1 Conventional (library Welch),50,0.96,0.52,0.3,0.12
+111,1 Conventional (library Welch),100,0.97,0.43,0.23,0.1
+111,2 Paired single fit,25,1.0,0.56,0.28,0.4
+111,2 Paired single fit,50,0.96,0.48,0.26,0.32
+111,2 Paired single fit,100,0.94,0.41,0.36,0.29
+111,"3 Stability-first, prep-agnostic",25,1.0,0.48,0.24,0.36
+111,"3 Stability-first, prep-agnostic",50,0.94,0.34,0.3,0.26
+111,"3 Stability-first, prep-agnostic",100,0.92,0.32,0.32,0.25
+111,"4 Stability-first, prep-aware",25,0.72,0.12,0.44,0.08
+111,"4 Stability-first, prep-aware",50,0.72,0.12,0.42,0.16
+111,"4 Stability-first, prep-aware",100,0.67,0.08,0.46,0.15
+112,1 Conventional (library Welch),25,1.0,0.48,0.2,0.16
+112,1 Conventional (library Welch),50,1.0,0.48,0.18,0.18
+112,1 Conventional (library Welch),100,0.97,0.44,0.14,0.21
+112,2 Paired single fit,25,1.0,0.56,0.12,0.32
+112,2 Paired single fit,50,1.0,0.5,0.12,0.34
+112,2 Paired single fit,100,0.98,0.44,0.14,0.41
+112,"3 Stability-first, prep-agnostic",25,1.0,0.6,0.08,0.32
+112,"3 Stability-first, prep-agnostic",50,1.0,0.46,0.1,0.34
+112,"3 Stability-first, prep-agnostic",100,0.96,0.41,0.15,0.34
+112,"4 Stability-first, prep-aware",25,0.88,0.28,0.04,0.28
+112,"4 Stability-first, prep-aware",50,0.86,0.34,0.04,0.24
+112,"4 Stability-first, prep-aware",100,0.89,0.29,0.04,0.25
+113,1 Conventional (library Welch),25,0.96,0.28,0.4,0.16
+113,1 Conventional (library Welch),50,0.98,0.28,0.42,0.16
+113,1 Conventional (library Welch),100,0.96,0.34,0.39,0.16
+113,2 Paired single fit,25,0.92,0.44,0.44,0.32
+113,2 Paired single fit,50,0.96,0.32,0.4,0.3
+113,2 Paired single fit,100,0.96,0.4,0.41,0.31
+113,"3 Stability-first, prep-agnostic",25,0.92,0.4,0.28,0.44
+113,"3 Stability-first, prep-agnostic",50,0.9,0.4,0.36,0.38
+113,"3 Stability-first, prep-agnostic",100,0.91,0.37,0.33,0.32
+113,"4 Stability-first, prep-aware",25,0.68,0.24,0.24,0.24
+113,"4 Stability-first, prep-aware",50,0.74,0.22,0.18,0.28
+113,"4 Stability-first, prep-aware",100,0.69,0.15,0.19,0.25
+114,1 Conventional (library Welch),25,0.96,0.64,0.28,0.12
+114,1 Conventional (library Welch),50,0.96,0.6,0.3,0.1
+114,1 Conventional (library Welch),100,0.96,0.52,0.41,0.11
+114,2 Paired single fit,25,1.0,0.68,0.24,0.4
+114,2 Paired single fit,50,1.0,0.56,0.3,0.42
+114,2 Paired single fit,100,0.97,0.51,0.36,0.37
+114,"3 Stability-first, prep-agnostic",25,0.96,0.52,0.16,0.6
+114,"3 Stability-first, prep-agnostic",50,0.96,0.5,0.16,0.5
+114,"3 Stability-first, prep-agnostic",100,0.94,0.41,0.29,0.42
+114,"4 Stability-first, prep-aware",25,0.72,0.32,0.28,0.4
+114,"4 Stability-first, prep-aware",50,0.68,0.36,0.22,0.4
+114,"4 Stability-first, prep-aware",100,0.73,0.33,0.17,0.35
+115,1 Conventional (library Welch),25,1.0,0.52,0.04,0.2
+115,1 Conventional (library Welch),50,1.0,0.46,0.08,0.18
+115,1 Conventional (library Welch),100,1.0,0.49,0.17,0.22
+115,2 Paired single fit,25,1.0,0.72,0.12,0.56
+115,2 Paired single fit,50,0.98,0.68,0.14,0.48
+115,2 Paired single fit,100,0.99,0.57,0.18,0.35
+115,"3 Stability-first, prep-agnostic",25,1.0,0.6,0.08,0.44
+115,"3 Stability-first, prep-agnostic",50,0.96,0.62,0.12,0.48
+115,"3 Stability-first, prep-agnostic",100,0.96,0.54,0.16,0.37
+115,"4 Stability-first, prep-aware",25,0.84,0.24,0.08,0.44
+115,"4 Stability-first, prep-aware",50,0.82,0.18,0.22,0.32
+115,"4 Stability-first, prep-aware",100,0.72,0.16,0.23,0.27
+116,1 Conventional (library Welch),25,0.96,0.6,0.16,0.36
+116,1 Conventional (library Welch),50,0.94,0.52,0.18,0.3
+116,1 Conventional (library Welch),100,0.91,0.43,0.13,0.32
+116,2 Paired single fit,25,0.88,0.44,0.2,0.52
+116,2 Paired single fit,50,0.88,0.46,0.22,0.42
+116,2 Paired single fit,100,0.87,0.51,0.22,0.4
+116,"3 Stability-first, prep-agnostic",25,0.88,0.56,0.24,0.4
+116,"3 Stability-first, prep-agnostic",50,0.9,0.42,0.24,0.4
+116,"3 Stability-first, prep-agnostic",100,0.85,0.36,0.19,0.38
+116,"4 Stability-first, prep-aware",25,0.84,0.32,0.16,0.4
+116,"4 Stability-first, prep-aware",50,0.8,0.3,0.1,0.4
+116,"4 Stability-first, prep-aware",100,0.74,0.26,0.09,0.28
+117,1 Conventional (library Welch),25,0.96,0.52,0.12,0.2
+117,1 Conventional (library Welch),50,0.96,0.48,0.14,0.2
+117,1 Conventional (library Welch),100,0.95,0.45,0.11,0.3
+117,2 Paired single fit,25,0.96,0.48,0.2,0.48
+117,2 Paired single fit,50,0.94,0.42,0.14,0.48
+117,2 Paired single fit,100,0.93,0.44,0.12,0.44
+117,"3 Stability-first, prep-agnostic",25,0.96,0.44,0.12,0.4
+117,"3 Stability-first, prep-agnostic",50,0.92,0.42,0.1,0.44
+117,"3 Stability-first, prep-agnostic",100,0.93,0.41,0.13,0.37
+117,"4 Stability-first, prep-aware",25,0.8,0.4,0.04,0.4
+117,"4 Stability-first, prep-aware",50,0.82,0.26,0.08,0.36
+117,"4 Stability-first, prep-aware",100,0.81,0.27,0.08,0.34
+118,1 Conventional (library Welch),25,0.96,0.64,0.16,0.16
+118,1 Conventional (library Welch),50,0.96,0.58,0.18,0.22
+118,1 Conventional (library Welch),100,0.96,0.55,0.27,0.18
+118,2 Paired single fit,25,0.88,0.64,0.08,0.4
+118,2 Paired single fit,50,0.92,0.66,0.2,0.42
+118,2 Paired single fit,100,0.89,0.57,0.24,0.28
+118,"3 Stability-first, prep-agnostic",25,0.88,0.48,0.12,0.48
+118,"3 Stability-first, prep-agnostic",50,0.86,0.52,0.08,0.32
+118,"3 Stability-first, prep-agnostic",100,0.83,0.45,0.15,0.26
+118,"4 Stability-first, prep-aware",25,0.76,0.44,0.12,0.4
+118,"4 Stability-first, prep-aware",50,0.76,0.34,0.14,0.32
+118,"4 Stability-first, prep-aware",100,0.64,0.25,0.13,0.31
+119,1 Conventional (library Welch),25,1.0,0.52,0.12,0.12
+119,1 Conventional (library Welch),50,0.98,0.5,0.2,0.12
+119,1 Conventional (library Welch),100,0.95,0.49,0.26,0.16
+119,2 Paired single fit,25,1.0,0.72,0.36,0.36
+119,2 Paired single fit,50,1.0,0.66,0.34,0.34
+119,2 Paired single fit,100,0.97,0.52,0.38,0.33
+119,"3 Stability-first, prep-agnostic",25,1.0,0.8,0.36,0.4
+119,"3 Stability-first, prep-agnostic",50,1.0,0.68,0.28,0.42
+119,"3 Stability-first, prep-agnostic",100,0.99,0.59,0.24,0.4
+119,"4 Stability-first, prep-aware",25,0.8,0.4,0.12,0.28
+119,"4 Stability-first, prep-aware",50,0.8,0.42,0.12,0.36
+119,"4 Stability-first, prep-aware",100,0.77,0.31,0.13,0.31
+120,1 Conventional (library Welch),25,1.0,0.4,0.64,0.04
+120,1 Conventional (library Welch),50,0.96,0.4,0.72,0.02
+120,1 Conventional (library Welch),100,0.94,0.32,0.67,0.05
+120,2 Paired single fit,25,0.8,0.16,0.4,0.24
+120,2 Paired single fit,50,0.84,0.22,0.52,0.18
+120,2 Paired single fit,100,0.81,0.23,0.59,0.17
+120,"3 Stability-first, prep-agnostic",25,0.8,0.24,0.4,0.24
+120,"3 Stability-first, prep-agnostic",50,0.74,0.2,0.5,0.22
+120,"3 Stability-first, prep-agnostic",100,0.75,0.2,0.57,0.2
+120,"4 Stability-first, prep-aware",25,0.76,0.08,0.32,0.2
+120,"4 Stability-first, prep-aware",50,0.66,0.12,0.3,0.2
+120,"4 Stability-first, prep-aware",100,0.64,0.1,0.21,0.24
+121,1 Conventional (library Welch),25,1.0,0.56,0.12,0.48
+121,1 Conventional (library Welch),50,0.98,0.58,0.18,0.38
+121,1 Conventional (library Welch),100,0.98,0.48,0.14,0.38
+121,2 Paired single fit,25,1.0,0.48,0.08,0.88
+121,2 Paired single fit,50,0.98,0.46,0.14,0.76
+121,2 Paired single fit,100,0.97,0.45,0.2,0.63
+121,"3 Stability-first, prep-agnostic",25,0.96,0.4,0.12,0.88
+121,"3 Stability-first, prep-agnostic",50,0.98,0.42,0.16,0.68
+121,"3 Stability-first, prep-agnostic",100,0.98,0.44,0.14,0.63
+121,"4 Stability-first, prep-aware",25,0.72,0.04,0.4,0.28
+121,"4 Stability-first, prep-aware",50,0.68,0.12,0.38,0.24
+121,"4 Stability-first, prep-aware",100,0.69,0.15,0.39,0.29
+122,1 Conventional (library Welch),25,1.0,0.68,0.32,0.12
+122,1 Conventional (library Welch),50,1.0,0.64,0.34,0.1
+122,1 Conventional (library Welch),100,0.96,0.6,0.38,0.15
+122,2 Paired single fit,25,1.0,0.56,0.12,0.56
+122,2 Paired single fit,50,0.98,0.48,0.16,0.62
+122,2 Paired single fit,100,0.95,0.45,0.22,0.58
+122,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.24,0.76
+122,"3 Stability-first, prep-agnostic",50,0.9,0.38,0.14,0.58
+122,"3 Stability-first, prep-agnostic",100,0.9,0.38,0.17,0.48
+122,"4 Stability-first, prep-aware",25,0.56,0.28,0.04,0.32
+122,"4 Stability-first, prep-aware",50,0.62,0.28,0.08,0.42
+122,"4 Stability-first, prep-aware",100,0.65,0.28,0.13,0.39
+123,1 Conventional (library Welch),25,0.96,0.4,0.16,0.08
+123,1 Conventional (library Welch),50,0.94,0.42,0.2,0.1
+123,1 Conventional (library Welch),100,0.94,0.36,0.28,0.11
+123,2 Paired single fit,25,0.96,0.52,0.2,0.32
+123,2 Paired single fit,50,0.96,0.56,0.24,0.26
+123,2 Paired single fit,100,0.97,0.45,0.28,0.29
+123,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.16,0.2
+123,"3 Stability-first, prep-agnostic",50,0.96,0.5,0.16,0.24
+123,"3 Stability-first, prep-agnostic",100,0.93,0.41,0.22,0.21
+123,"4 Stability-first, prep-aware",25,0.84,0.36,0.0,0.36
+123,"4 Stability-first, prep-aware",50,0.84,0.26,0.06,0.34
+123,"4 Stability-first, prep-aware",100,0.82,0.25,0.09,0.28
+124,1 Conventional (library Welch),25,1.0,0.44,0.04,0.24
+124,1 Conventional (library Welch),50,1.0,0.48,0.14,0.26
+124,1 Conventional (library Welch),100,1.0,0.49,0.11,0.24
+124,2 Paired single fit,25,1.0,0.48,0.12,0.48
+124,2 Paired single fit,50,1.0,0.54,0.14,0.44
+124,2 Paired single fit,100,0.95,0.45,0.09,0.45
+124,"3 Stability-first, prep-agnostic",25,0.96,0.48,0.08,0.44
+124,"3 Stability-first, prep-agnostic",50,0.98,0.5,0.1,0.46
+124,"3 Stability-first, prep-agnostic",100,0.96,0.45,0.1,0.45
+124,"4 Stability-first, prep-aware",25,0.84,0.24,0.08,0.44
+124,"4 Stability-first, prep-aware",50,0.8,0.2,0.06,0.4
+124,"4 Stability-first, prep-aware",100,0.81,0.22,0.05,0.34
+125,1 Conventional (library Welch),25,0.92,0.32,0.4,0.04
+125,1 Conventional (library Welch),50,0.92,0.18,0.56,0.06
+125,1 Conventional (library Welch),100,0.93,0.18,0.58,0.06
+125,2 Paired single fit,25,0.96,0.32,0.32,0.32
+125,2 Paired single fit,50,0.98,0.26,0.44,0.26
+125,2 Paired single fit,100,0.98,0.19,0.56,0.24
+125,"3 Stability-first, prep-agnostic",25,0.96,0.24,0.6,0.16
+125,"3 Stability-first, prep-agnostic",50,0.96,0.22,0.54,0.22
+125,"3 Stability-first, prep-agnostic",100,0.95,0.25,0.56,0.26
+125,"4 Stability-first, prep-aware",25,0.84,0.2,0.16,0.32
+125,"4 Stability-first, prep-aware",50,0.86,0.18,0.18,0.22
+125,"4 Stability-first, prep-aware",100,0.87,0.18,0.21,0.22
+126,1 Conventional (library Welch),25,1.0,0.6,0.0,0.04
+126,1 Conventional (library Welch),50,0.98,0.54,0.08,0.04
+126,1 Conventional (library Welch),100,0.98,0.55,0.12,0.08
+126,2 Paired single fit,25,1.0,0.56,0.04,0.56
+126,2 Paired single fit,50,0.96,0.44,0.02,0.36
+126,2 Paired single fit,100,0.92,0.41,0.06,0.38
+126,"3 Stability-first, prep-agnostic",25,1.0,0.56,0.04,0.48
+126,"3 Stability-first, prep-agnostic",50,0.94,0.46,0.06,0.4
+126,"3 Stability-first, prep-agnostic",100,0.95,0.42,0.05,0.31
+126,"4 Stability-first, prep-aware",25,0.76,0.24,0.04,0.4
+126,"4 Stability-first, prep-aware",50,0.66,0.26,0.06,0.22
+126,"4 Stability-first, prep-aware",100,0.62,0.23,0.06,0.24
+127,1 Conventional (library Welch),25,0.8,0.4,0.04,0.16
+127,1 Conventional (library Welch),50,0.88,0.4,0.12,0.36
+127,1 Conventional (library Welch),100,0.92,0.38,0.06,0.34
+127,2 Paired single fit,25,0.84,0.28,0.08,0.32
+127,2 Paired single fit,50,0.86,0.38,0.1,0.32
+127,2 Paired single fit,100,0.92,0.39,0.09,0.39
+127,"3 Stability-first, prep-agnostic",25,0.88,0.32,0.04,0.28
+127,"3 Stability-first, prep-agnostic",50,0.88,0.44,0.1,0.38
+127,"3 Stability-first, prep-agnostic",100,0.89,0.39,0.07,0.36
+127,"4 Stability-first, prep-aware",25,0.8,0.24,0.04,0.28
+127,"4 Stability-first, prep-aware",50,0.8,0.24,0.04,0.28
+127,"4 Stability-first, prep-aware",100,0.79,0.21,0.04,0.28
+128,1 Conventional (library Welch),25,0.88,0.32,0.72,0.12
+128,1 Conventional (library Welch),50,0.94,0.3,0.74,0.1
+128,1 Conventional (library Welch),100,0.94,0.28,0.7,0.07
+128,2 Paired single fit,25,1.0,0.56,0.24,0.36
+128,2 Paired single fit,50,1.0,0.44,0.36,0.28
+128,2 Paired single fit,100,0.97,0.34,0.36,0.23
+128,"3 Stability-first, prep-agnostic",25,1.0,0.48,0.24,0.36
+128,"3 Stability-first, prep-agnostic",50,0.98,0.38,0.32,0.3
+128,"3 Stability-first, prep-agnostic",100,0.96,0.34,0.37,0.29
+128,"4 Stability-first, prep-aware",25,0.68,0.24,0.16,0.28
+128,"4 Stability-first, prep-aware",50,0.76,0.2,0.14,0.28
+128,"4 Stability-first, prep-aware",100,0.77,0.26,0.12,0.34
+129,1 Conventional (library Welch),25,1.0,0.4,0.44,0.16
+129,1 Conventional (library Welch),50,0.98,0.46,0.42,0.22
+129,1 Conventional (library Welch),100,0.98,0.45,0.45,0.21
+129,2 Paired single fit,25,0.92,0.52,0.4,0.52
+129,2 Paired single fit,50,0.9,0.48,0.34,0.52
+129,2 Paired single fit,100,0.93,0.45,0.37,0.46
+129,"3 Stability-first, prep-agnostic",25,0.92,0.44,0.4,0.6
+129,"3 Stability-first, prep-agnostic",50,0.94,0.48,0.38,0.48
+129,"3 Stability-first, prep-agnostic",100,0.92,0.42,0.3,0.42
+129,"4 Stability-first, prep-aware",25,0.84,0.24,0.24,0.44
+129,"4 Stability-first, prep-aware",50,0.86,0.24,0.2,0.36
+129,"4 Stability-first, prep-aware",100,0.74,0.19,0.18,0.29
+130,1 Conventional (library Welch),25,1.0,0.76,0.28,0.24
+130,1 Conventional (library Welch),50,0.98,0.68,0.3,0.16
+130,1 Conventional (library Welch),100,0.97,0.58,0.28,0.18
+130,2 Paired single fit,25,1.0,0.8,0.16,0.52
+130,2 Paired single fit,50,1.0,0.68,0.18,0.44
+130,2 Paired single fit,100,0.93,0.59,0.16,0.36
+130,"3 Stability-first, prep-agnostic",25,1.0,0.72,0.12,0.44
+130,"3 Stability-first, prep-agnostic",50,0.96,0.7,0.12,0.44
+130,"3 Stability-first, prep-agnostic",100,0.94,0.59,0.12,0.31
+130,"4 Stability-first, prep-aware",25,0.88,0.6,0.0,0.44
+130,"4 Stability-first, prep-aware",50,0.88,0.54,0.08,0.34
+130,"4 Stability-first, prep-aware",100,0.83,0.44,0.09,0.3
+131,1 Conventional (library Welch),25,0.92,0.28,0.08,0.32
+131,1 Conventional (library Welch),50,0.94,0.38,0.12,0.4
+131,1 Conventional (library Welch),100,0.91,0.4,0.11,0.35
+131,2 Paired single fit,25,1.0,0.48,0.2,0.56
+131,2 Paired single fit,50,0.94,0.44,0.12,0.66
+131,2 Paired single fit,100,0.93,0.42,0.07,0.61
+131,"3 Stability-first, prep-agnostic",25,1.0,0.48,0.2,0.52
+131,"3 Stability-first, prep-agnostic",50,0.98,0.46,0.14,0.54
+131,"3 Stability-first, prep-agnostic",100,0.92,0.38,0.08,0.53
+131,"4 Stability-first, prep-aware",25,0.84,0.32,0.08,0.52
+131,"4 Stability-first, prep-aware",50,0.78,0.24,0.06,0.46
+131,"4 Stability-first, prep-aware",100,0.82,0.25,0.07,0.47
+132,1 Conventional (library Welch),25,1.0,0.6,0.08,0.24
+132,1 Conventional (library Welch),50,1.0,0.46,0.16,0.26
+132,1 Conventional (library Welch),100,0.97,0.45,0.17,0.22
+132,2 Paired single fit,25,1.0,0.64,0.16,0.64
+132,2 Paired single fit,50,0.98,0.52,0.14,0.6
+132,2 Paired single fit,100,0.98,0.44,0.15,0.54
+132,"3 Stability-first, prep-agnostic",25,1.0,0.6,0.16,0.64
+132,"3 Stability-first, prep-agnostic",50,1.0,0.48,0.12,0.7
+132,"3 Stability-first, prep-agnostic",100,0.98,0.42,0.13,0.6
+132,"4 Stability-first, prep-aware",25,0.92,0.16,0.28,0.44
+132,"4 Stability-first, prep-aware",50,0.84,0.18,0.3,0.42
+132,"4 Stability-first, prep-aware",100,0.86,0.2,0.35,0.36
+133,1 Conventional (library Welch),25,1.0,0.52,0.08,0.16
+133,1 Conventional (library Welch),50,0.98,0.48,0.06,0.26
+133,1 Conventional (library Welch),100,0.99,0.46,0.11,0.24
+133,2 Paired single fit,25,1.0,0.56,0.12,0.72
+133,2 Paired single fit,50,0.96,0.48,0.12,0.68
+133,2 Paired single fit,100,0.97,0.39,0.13,0.58
+133,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.12,0.68
+133,"3 Stability-first, prep-agnostic",50,1.0,0.48,0.12,0.72
+133,"3 Stability-first, prep-agnostic",100,0.97,0.35,0.13,0.54
+133,"4 Stability-first, prep-aware",25,0.84,0.36,0.16,0.6
+133,"4 Stability-first, prep-aware",50,0.84,0.2,0.26,0.46
+133,"4 Stability-first, prep-aware",100,0.84,0.2,0.27,0.41
+134,1 Conventional (library Welch),25,0.92,0.28,0.16,0.0
+134,1 Conventional (library Welch),50,0.9,0.24,0.16,0.1
+134,1 Conventional (library Welch),100,0.91,0.19,0.2,0.15
+134,2 Paired single fit,25,0.96,0.28,0.16,0.12
+134,2 Paired single fit,50,0.94,0.24,0.22,0.18
+134,2 Paired single fit,100,0.94,0.22,0.24,0.16
+134,"3 Stability-first, prep-agnostic",25,0.96,0.32,0.12,0.16
+134,"3 Stability-first, prep-agnostic",50,0.94,0.24,0.16,0.18
+134,"3 Stability-first, prep-agnostic",100,0.9,0.2,0.23,0.2
+134,"4 Stability-first, prep-aware",25,0.96,0.32,0.08,0.16
+134,"4 Stability-first, prep-aware",50,0.92,0.22,0.04,0.24
+134,"4 Stability-first, prep-aware",100,0.89,0.25,0.05,0.28
+135,1 Conventional (library Welch),25,0.96,0.48,0.12,0.4
+135,1 Conventional (library Welch),50,0.92,0.46,0.06,0.3
+135,1 Conventional (library Welch),100,0.95,0.45,0.13,0.25
+135,2 Paired single fit,25,1.0,0.56,0.04,0.52
+135,2 Paired single fit,50,0.98,0.52,0.04,0.54
+135,2 Paired single fit,100,0.97,0.48,0.08,0.47
+135,"3 Stability-first, prep-agnostic",25,1.0,0.52,0.12,0.52
+135,"3 Stability-first, prep-agnostic",50,1.0,0.54,0.08,0.48
+135,"3 Stability-first, prep-agnostic",100,0.98,0.47,0.11,0.42
+135,"4 Stability-first, prep-aware",25,0.84,0.28,0.04,0.36
+135,"4 Stability-first, prep-aware",50,0.82,0.28,0.06,0.36
+135,"4 Stability-first, prep-aware",100,0.69,0.2,0.03,0.28
+136,1 Conventional (library Welch),25,1.0,0.48,0.48,0.0
+136,1 Conventional (library Welch),50,0.98,0.38,0.52,0.0
+136,1 Conventional (library Welch),100,0.98,0.42,0.49,0.06
+136,2 Paired single fit,25,0.96,0.52,0.24,0.32
+136,2 Paired single fit,50,0.98,0.48,0.44,0.3
+136,2 Paired single fit,100,0.97,0.44,0.43,0.32
+136,"3 Stability-first, prep-agnostic",25,1.0,0.56,0.12,0.48
+136,"3 Stability-first, prep-agnostic",50,0.96,0.48,0.3,0.44
+136,"3 Stability-first, prep-agnostic",100,0.94,0.41,0.33,0.43
+136,"4 Stability-first, prep-aware",25,0.72,0.2,0.12,0.28
+136,"4 Stability-first, prep-aware",50,0.76,0.18,0.2,0.28
+136,"4 Stability-first, prep-aware",100,0.76,0.21,0.24,0.24
+137,1 Conventional (library Welch),25,0.96,0.6,0.2,0.04
+137,1 Conventional (library Welch),50,0.9,0.44,0.3,0.06
+137,1 Conventional (library Welch),100,0.92,0.41,0.33,0.09
+137,2 Paired single fit,25,0.96,0.6,0.2,0.28
+137,2 Paired single fit,50,0.96,0.54,0.28,0.32
+137,2 Paired single fit,100,0.97,0.44,0.35,0.29
+137,"3 Stability-first, prep-agnostic",25,0.96,0.6,0.2,0.28
+137,"3 Stability-first, prep-agnostic",50,0.96,0.6,0.24,0.32
+137,"3 Stability-first, prep-agnostic",100,0.96,0.48,0.29,0.28
+137,"4 Stability-first, prep-aware",25,0.92,0.4,0.04,0.32
+137,"4 Stability-first, prep-aware",50,0.92,0.34,0.06,0.26
+137,"4 Stability-first, prep-aware",100,0.9,0.3,0.1,0.32
+138,1 Conventional (library Welch),25,0.92,0.72,0.24,0.16
+138,1 Conventional (library Welch),50,0.94,0.66,0.28,0.1
+138,1 Conventional (library Welch),100,0.97,0.56,0.34,0.09
+138,2 Paired single fit,25,1.0,0.6,0.16,0.4
+138,2 Paired single fit,50,0.98,0.6,0.16,0.34
+138,2 Paired single fit,100,0.98,0.54,0.27,0.27
+138,"3 Stability-first, prep-agnostic",25,1.0,0.68,0.12,0.36
+138,"3 Stability-first, prep-agnostic",50,0.96,0.5,0.16,0.36
+138,"3 Stability-first, prep-agnostic",100,0.96,0.5,0.17,0.33
+138,"4 Stability-first, prep-aware",25,0.96,0.4,0.16,0.36
+138,"4 Stability-first, prep-aware",50,0.88,0.34,0.14,0.36
+138,"4 Stability-first, prep-aware",100,0.85,0.3,0.12,0.29
+139,1 Conventional (library Welch),25,0.96,0.52,0.36,0.24
+139,1 Conventional (library Welch),50,0.98,0.58,0.32,0.24
+139,1 Conventional (library Welch),100,0.99,0.54,0.41,0.19
+139,2 Paired single fit,25,0.96,0.72,0.2,0.48
+139,2 Paired single fit,50,0.96,0.64,0.28,0.42
+139,2 Paired single fit,100,0.96,0.58,0.37,0.31
+139,"3 Stability-first, prep-agnostic",25,0.96,0.6,0.28,0.4
+139,"3 Stability-first, prep-agnostic",50,0.94,0.5,0.28,0.34
+139,"3 Stability-first, prep-agnostic",100,0.93,0.52,0.28,0.31
+139,"4 Stability-first, prep-aware",25,0.64,0.32,0.0,0.36
+139,"4 Stability-first, prep-aware",50,0.7,0.38,0.02,0.38
+139,"4 Stability-first, prep-aware",100,0.8,0.37,0.06,0.36
+140,1 Conventional (library Welch),25,1.0,0.48,0.12,0.28
+140,1 Conventional (library Welch),50,0.98,0.4,0.14,0.3
+140,1 Conventional (library Welch),100,0.98,0.47,0.12,0.34
+140,2 Paired single fit,25,1.0,0.36,0.12,0.72
+140,2 Paired single fit,50,0.98,0.48,0.12,0.58
+140,2 Paired single fit,100,0.98,0.42,0.11,0.6
+140,"3 Stability-first, prep-agnostic",25,0.96,0.4,0.16,0.76
+140,"3 Stability-first, prep-agnostic",50,0.94,0.4,0.18,0.64
+140,"3 Stability-first, prep-agnostic",100,0.96,0.46,0.16,0.5
+140,"4 Stability-first, prep-aware",25,0.68,0.28,0.04,0.4
+140,"4 Stability-first, prep-aware",50,0.64,0.24,0.04,0.4
+140,"4 Stability-first, prep-aware",100,0.63,0.18,0.09,0.31
+141,1 Conventional (library Welch),25,0.92,0.32,0.0,0.08
+141,1 Conventional (library Welch),50,0.94,0.32,0.06,0.12
+141,1 Conventional (library Welch),100,0.91,0.33,0.07,0.12
+141,2 Paired single fit,25,1.0,0.48,0.2,0.24
+141,2 Paired single fit,50,0.96,0.48,0.14,0.28
+141,2 Paired single fit,100,0.98,0.44,0.14,0.26
+141,"3 Stability-first, prep-agnostic",25,1.0,0.36,0.12,0.2
+141,"3 Stability-first, prep-agnostic",50,0.98,0.36,0.1,0.18
+141,"3 Stability-first, prep-agnostic",100,0.92,0.37,0.09,0.25
+141,"4 Stability-first, prep-aware",25,0.84,0.52,0.08,0.4
+141,"4 Stability-first, prep-aware",50,0.76,0.3,0.08,0.32
+141,"4 Stability-first, prep-aware",100,0.77,0.25,0.08,0.3
+142,1 Conventional (library Welch),25,0.96,0.32,0.2,0.12
+142,1 Conventional (library Welch),50,0.98,0.32,0.22,0.18
+142,1 Conventional (library Welch),100,0.96,0.32,0.26,0.18
+142,2 Paired single fit,25,1.0,0.44,0.12,0.24
+142,2 Paired single fit,50,0.98,0.32,0.22,0.28
+142,2 Paired single fit,100,0.98,0.25,0.27,0.25
+142,"3 Stability-first, prep-agnostic",25,1.0,0.4,0.24,0.28
+142,"3 Stability-first, prep-agnostic",50,0.98,0.32,0.22,0.3
+142,"3 Stability-first, prep-agnostic",100,0.96,0.26,0.2,0.3
+142,"4 Stability-first, prep-aware",25,0.92,0.16,0.04,0.16
+142,"4 Stability-first, prep-aware",50,0.9,0.16,0.1,0.14
+142,"4 Stability-first, prep-aware",100,0.86,0.16,0.07,0.21
+143,1 Conventional (library Welch),25,1.0,0.52,0.24,0.28
+143,1 Conventional (library Welch),50,1.0,0.52,0.22,0.26
+143,1 Conventional (library Welch),100,1.0,0.43,0.31,0.2
+143,2 Paired single fit,25,0.96,0.48,0.32,0.52
+143,2 Paired single fit,50,0.96,0.48,0.28,0.38
+143,2 Paired single fit,100,0.98,0.44,0.36,0.37
+143,"3 Stability-first, prep-agnostic",25,0.96,0.56,0.32,0.24
+143,"3 Stability-first, prep-agnostic",50,0.98,0.54,0.28,0.32
+143,"3 Stability-first, prep-agnostic",100,0.93,0.44,0.26,0.3
+143,"4 Stability-first, prep-aware",25,0.92,0.44,0.12,0.4
+143,"4 Stability-first, prep-aware",50,0.8,0.3,0.12,0.32
+143,"4 Stability-first, prep-aware",100,0.79,0.22,0.08,0.38
+144,1 Conventional (library Welch),25,0.96,0.64,0.16,0.16
+144,1 Conventional (library Welch),50,0.98,0.6,0.18,0.16
+144,1 Conventional (library Welch),100,0.97,0.6,0.25,0.19
+144,2 Paired single fit,25,0.96,0.48,0.12,0.8
+144,2 Paired single fit,50,0.92,0.44,0.18,0.56
+144,2 Paired single fit,100,0.88,0.38,0.22,0.52
+144,"3 Stability-first, prep-agnostic",25,1.0,0.4,0.12,0.8
+144,"3 Stability-first, prep-agnostic",50,0.98,0.48,0.12,0.76
+144,"3 Stability-first, prep-agnostic",100,0.94,0.44,0.2,0.55
+144,"4 Stability-first, prep-aware",25,0.8,0.24,0.16,0.44
+144,"4 Stability-first, prep-aware",50,0.82,0.2,0.16,0.4
+144,"4 Stability-first, prep-aware",100,0.74,0.19,0.18,0.31
+145,1 Conventional (library Welch),25,1.0,0.16,0.56,0.0
+145,1 Conventional (library Welch),50,1.0,0.2,0.66,0.0
+145,1 Conventional (library Welch),100,0.99,0.14,0.75,0.02
+145,2 Paired single fit,25,0.96,0.28,0.48,0.2
+145,2 Paired single fit,50,0.94,0.22,0.6,0.22
+145,2 Paired single fit,100,0.93,0.18,0.58,0.21
+145,"3 Stability-first, prep-agnostic",25,0.96,0.24,0.56,0.08
+145,"3 Stability-first, prep-agnostic",50,0.94,0.2,0.56,0.14
+145,"3 Stability-first, prep-agnostic",100,0.91,0.19,0.56,0.15
+145,"4 Stability-first, prep-aware",25,0.76,0.2,0.16,0.2
+145,"4 Stability-first, prep-aware",50,0.7,0.16,0.16,0.22
+145,"4 Stability-first, prep-aware",100,0.66,0.14,0.18,0.24
+146,1 Conventional (library Welch),25,1.0,0.68,0.24,0.12
+146,1 Conventional (library Welch),50,0.94,0.64,0.22,0.14
+146,1 Conventional (library Welch),100,0.97,0.54,0.25,0.17
+146,2 Paired single fit,25,0.88,0.48,0.16,0.48
+146,2 Paired single fit,50,0.94,0.54,0.14,0.5
+146,2 Paired single fit,100,0.94,0.45,0.22,0.46
+146,"3 Stability-first, prep-agnostic",25,0.96,0.56,0.12,0.56
+146,"3 Stability-first, prep-agnostic",50,0.92,0.52,0.16,0.42
+146,"3 Stability-first, prep-agnostic",100,0.94,0.45,0.23,0.4
+146,"4 Stability-first, prep-aware",25,0.72,0.32,0.12,0.32
+146,"4 Stability-first, prep-aware",50,0.82,0.32,0.06,0.34
+146,"4 Stability-first, prep-aware",100,0.83,0.29,0.06,0.31
+147,1 Conventional (library Welch),25,1.0,0.28,0.16,0.04
+147,1 Conventional (library Welch),50,1.0,0.26,0.24,0.04
+147,1 Conventional (library Welch),100,0.95,0.19,0.29,0.04
+147,2 Paired single fit,25,1.0,0.24,0.24,0.16
+147,2 Paired single fit,50,0.96,0.22,0.24,0.18
+147,2 Paired single fit,100,0.93,0.21,0.27,0.22
+147,"3 Stability-first, prep-agnostic",25,1.0,0.28,0.12,0.16
+147,"3 Stability-first, prep-agnostic",50,0.96,0.24,0.28,0.14
+147,"3 Stability-first, prep-agnostic",100,0.94,0.23,0.32,0.16
+147,"4 Stability-first, prep-aware",25,0.96,0.24,0.08,0.12
+147,"4 Stability-first, prep-aware",50,0.96,0.28,0.1,0.26
+147,"4 Stability-first, prep-aware",100,0.91,0.19,0.09,0.25
+148,1 Conventional (library Welch),25,0.96,0.16,0.68,0.04
+148,1 Conventional (library Welch),50,0.94,0.2,0.58,0.06
+148,1 Conventional (library Welch),100,0.94,0.26,0.57,0.05
+148,2 Paired single fit,25,1.0,0.32,0.36,0.2
+148,2 Paired single fit,50,0.96,0.32,0.46,0.22
+148,2 Paired single fit,100,0.92,0.28,0.53,0.21
+148,"3 Stability-first, prep-agnostic",25,0.88,0.36,0.32,0.2
+148,"3 Stability-first, prep-agnostic",50,0.88,0.26,0.42,0.22
+148,"3 Stability-first, prep-agnostic",100,0.89,0.32,0.44,0.24
+148,"4 Stability-first, prep-aware",25,0.8,0.28,0.04,0.32
+148,"4 Stability-first, prep-aware",50,0.78,0.26,0.1,0.3
+148,"4 Stability-first, prep-aware",100,0.78,0.19,0.16,0.25
+149,1 Conventional (library Welch),25,1.0,0.6,0.16,0.08
+149,1 Conventional (library Welch),50,0.98,0.5,0.26,0.06
+149,1 Conventional (library Welch),100,0.97,0.41,0.32,0.07
+149,2 Paired single fit,25,0.92,0.64,0.32,0.2
+149,2 Paired single fit,50,0.96,0.56,0.36,0.3
+149,2 Paired single fit,100,0.97,0.51,0.36,0.22
+149,"3 Stability-first, prep-agnostic",25,0.92,0.6,0.12,0.16
+149,"3 Stability-first, prep-agnostic",50,0.96,0.52,0.16,0.24
+149,"3 Stability-first, prep-agnostic",100,0.94,0.49,0.24,0.21
+149,"4 Stability-first, prep-aware",25,0.92,0.4,0.08,0.36
+149,"4 Stability-first, prep-aware",50,0.82,0.32,0.08,0.28
+149,"4 Stability-first, prep-aware",100,0.88,0.32,0.09,0.29
